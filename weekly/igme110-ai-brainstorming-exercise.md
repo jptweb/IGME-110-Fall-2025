@@ -41,7 +41,7 @@ Pick ONE of these to work on today:
 ### Step 1: Start the conversation in Guided Learning mode
 Copy and paste this prompt (replace [PROBLEM] with your choice):
 ```
-I want to design a solution for [doomscrolling / brain rot]. 
+I want to design a solution for [doomscrolling / brain rot / 8am classes]. 
 Help me understand this problem better by asking me questions about my experience with [PROBLEM].
 ```
 
@@ -92,14 +92,13 @@ Help me define:
 
 ### Step 6: Create a visual
 
-
 Try ONE of these prompts:
 
 **Option A - Logo:**
 ```
 Create a logo for an app called [YOUR APP NAME] that [brief description of what it does]
 ```
-<img width="845" height="267" alt="Screenshot 2025-08-28 at 1 42 49 PM" src="https://github.com/user-attachments/assets/80a0eda0-07d5-4f02-8d68-e5b871793871" />
+<img width="845" height="267" alt="Screenshot 2025-08-28 at 1 42 49 PM" src="https://github.com/user-attachments/assets/80a0eda0-07d5-4f02-8d68-e5b871793871" />
 
 **Option B - Interface:**
 ```
@@ -112,7 +111,7 @@ Create a product design sketch for [YOUR PHYSICAL PRODUCT NAME]
 ```
 
 ### Step 7: (Optional) Try Canvas Mode
-<img width="845" height="267" alt="Screenshot 2025-08-28 at 1 43 52 PM" src="https://github.com/user-attachments/assets/cd201dd2-9503-4efd-a8cd-7cc1fb176088" />
+<img width="845" height="267" alt="Screenshot 2025-08-28 at 1 43 52 PM" src="https://github.com/user-attachments/assets/cd201dd2-9503-4efd-a8cd-7cc1fb176088" />
 
 If you see a "Canvas" or code option:
 ```
@@ -130,19 +129,20 @@ Take a screenshot if you like the result!
 
 ### Step 8: Post to Slack - THIS IS YOUR SUBMISSION!
 1. Go to our class Slack → **#110-sec-[your section number]** channel 
-   - Example: `#110-sec-08-takats-tth-8am` OR #110-sec-02-takats-tth-2pm
-2. Find my message: **"Share your AI brainstorm solution here!"**
-3. **IMPORTANT: Click "Reply in thread"** (hover over message → click speech bubble)
-4. Post:
+   - Example: `#110-sec-08-takats-tth-8am` OR `#110-sec-02-takats-tth-2pm`
+2. **Post a NEW message** in the channel with:
    - **App/Product Name:** [Your creative name]
    - **Problem Solved:** [Which problem you chose]
    - **One-liner:** [What it does in one fun sentence]
    - **Key insight:** [Something interesting Gemini helped you realize]
    - **Image:** Upload your logo/mockup (if you generated one)
    
-### Step 9: Engage with others
+### Step 9: Engage with others - REQUIRED!
+- **You MUST reply to at least ONE classmate's post**
+- **Use "Reply in thread"** to comment on someone's idea
+- [SCREENSHOT PLACEHOLDER - Reply in Thread Button]
+- Give them feedback, ask a question, or share what you like about their idea
 - React with emojis to ideas you love
-- Comment on at least one other person's idea
 - Vote for "Most Practical" and "Most Ridiculous" with reactions!
 
 ---
@@ -160,8 +160,10 @@ Take a screenshot if you like the result!
 
 ## ⚠️ IMPORTANT: How to Submit
 **You ONLY need to post in Slack (Step 8 above) by end of class today!**
+- Post YOUR idea as a new message in the channel
+- Reply to at least ONE classmate's post using "Reply in thread"
 - No myCourses submission needed
-- I'll check Slack threads for participation credit
+- I'll check Slack for participation credit
 - Must be posted by end of day to receive credit
 
 ---
