@@ -29,12 +29,7 @@ Pick ONE of these to work on today:
 **On Desktop:**
 - Look for the **"Guided Learning"** button near the chat input box
 - Click to enable it (it may look like a graduation cap or sparkle icon)
-- [SCREENSHOT PLACEHOLDER - Guided Learning Button]
-
-**On Mobile:**
-1. Go to gemini.google.com or open the Gemini mobile app
-2. At the bottom, tap **More → Guided Learning**
-3. You're ready to start!
+- <img width="1193" height="441" alt="gemini-mode-1" src="https://github.com/user-attachments/assets/e364fd05-14f6-4e8f-a692-98d157a102af" />
 
 ### Step 3: Have Slack Ready
 - Open our class Slack in another tab - you'll need it at the end
@@ -46,7 +41,7 @@ Pick ONE of these to work on today:
 ### Step 1: Start the conversation in Guided Learning mode
 Copy and paste this prompt (replace [PROBLEM] with your choice):
 ```
-I want to design a solution for [doomscrolling / brain rot / 8am classes]. 
+I want to design a solution for [doomscrolling / brain rot]. 
 Help me understand this problem better by asking me questions about my experience with [PROBLEM].
 ```
 
@@ -55,6 +50,9 @@ Help me understand this problem better by asking me questions about my experienc
 - Let it ask you 3-4 follow-up questions
 - Notice how it's helping you think deeper about the problem
 - **Save interesting insights it helps you discover**
+- Note: If you aren't getting the results you want with guided learning mode you can disable it by clicking the X
+- <img width="791" height="141" alt="close-mode" src="https://github.com/user-attachments/assets/02e423ea-93fc-4b46-929e-660fb68308fb" />
+
 
 ---
 
@@ -93,7 +91,7 @@ Help me define:
 ## Part 3: Visualize Your Idea (5 minutes)
 
 ### Step 6: Create a visual
-[SCREENSHOT PLACEHOLDER - Image Generation Button]
+
 
 Try ONE of these prompts:
 
@@ -101,6 +99,7 @@ Try ONE of these prompts:
 ```
 Create a logo for an app called [YOUR APP NAME] that [brief description of what it does]
 ```
+<img width="845" height="267" alt="Screenshot 2025-08-28 at 1 42 49 PM" src="https://github.com/user-attachments/assets/80a0eda0-07d5-4f02-8d68-e5b871793871" />
 
 **Option B - Interface:**
 ```
@@ -113,7 +112,7 @@ Create a product design sketch for [YOUR PHYSICAL PRODUCT NAME]
 ```
 
 ### Step 7: (Optional) Try Canvas Mode
-[SCREENSHOT PLACEHOLDER - Canvas Mode Button]
+<img width="845" height="267" alt="Screenshot 2025-08-28 at 1 43 52 PM" src="https://github.com/user-attachments/assets/cd201dd2-9503-4efd-a8cd-7cc1fb176088" />
 
 If you see a "Canvas" or code option:
 ```
@@ -131,7 +130,7 @@ Take a screenshot if you like the result!
 
 ### Step 8: Post to Slack - THIS IS YOUR SUBMISSION!
 1. Go to our class Slack → **#110-sec-[your section number]** channel 
-   - Example: `#110-sec-08-takats-tth-8am`
+   - Example: `#110-sec-08-takats-tth-8am` OR #110-sec-02-takats-tth-2pm
 2. Find my message: **"Share your AI brainstorm solution here!"**
 3. **IMPORTANT: Click "Reply in thread"** (hover over message → click speech bubble)
 4. Post:
