@@ -1,26 +1,53 @@
-# AI Brainstorming Exercise: The 8am Class Struggle
+# AI Brainstorming Exercise: Creative Problem Solving
 **IGME-110 | Week 1B | In-Class Activity**
 
 ## Objective
-Learn how to use AI as a creative thinking partner to develop app/product ideas. We'll all tackle the same problem today to learn the process - next week you'll use these skills for Project 1!
+Learn how to use AI as a creative thinking partner to develop app/product ideas. We'll tackle real problems today to learn the process - next week you'll use these skills for Project 1!
+
+## Choose Your Problem
+Pick ONE of these to work on today:
+- **Doomscrolling** - Can't stop scrolling through social media
+- **Brain Rot** - Feeling mentally drained from too much screen time
+- *(8am section bonus option: **8am Class Struggle** - Can't wake up for early classes)*
 
 ---
 
 ## Setup (5 minutes)
-1. **Open your browser and go to:** gemini.google.com
-2. **Sign in with your RIT Google account** (important for free features!)
-3. **Look for "Guided Learning" mode** (may be a toggle or option in settings)
-4. **Have our Slack open in another tab** - you'll share at the end
+
+### Step 1: Open Google Gemini
+1. **Go to:** gemini.google.com
+2. **Check the top-right corner** - are you signed in?
+   - If you see your profile picture/initial → Check it's your RIT account
+   - If you see "Sign in" → Click it
+3. **Sign in with RIT account:**
+   - Enter your FULL RIT email: `abc1234@g.rit.edu` 
+   - This will redirect you to RIT's login system
+   - Use your RIT computer account credentials
+4. **Verify Pro Access:** You should see "Gemini Advanced" or similar indicator
+
+### Step 2: Enable Guided Learning Mode
+**On Desktop:**
+- Look for the **"Guided Learning"** button near the chat input box
+- Click to enable it (it may look like a graduation cap or sparkle icon)
+- [SCREENSHOT PLACEHOLDER - Guided Learning Button]
+
+**On Mobile:**
+1. Go to gemini.google.com or open the Gemini mobile app
+2. At the bottom, tap **More → Guided Learning**
+3. You're ready to start!
+
+### Step 3: Have Slack Ready
+- Open our class Slack in another tab - you'll need it at the end
 
 ---
 
 ## Part 1: Understanding the Problem (7 minutes)
 
-### Step 1: Enable Guided Learning and start the conversation
-Copy and paste this prompt:
+### Step 1: Start the conversation in Guided Learning mode
+Copy and paste this prompt (replace [PROBLEM] with your choice):
 ```
-I want to design a solution for college students struggling with 8am classes. 
-Help me understand this problem better by asking me questions about my experience with early morning classes.
+I want to design a solution for [doomscrolling / brain rot / 8am classes]. 
+Help me understand this problem better by asking me questions about my experience with [PROBLEM].
 ```
 
 ### Step 2: Engage with Gemini's questions
@@ -66,6 +93,8 @@ Help me define:
 ## Part 3: Visualize Your Idea (5 minutes)
 
 ### Step 6: Create a visual
+[SCREENSHOT PLACEHOLDER - Image Generation Button]
+
 Try ONE of these prompts:
 
 **Option A - Logo:**
@@ -84,6 +113,8 @@ Create a product design sketch for [YOUR PHYSICAL PRODUCT NAME]
 ```
 
 ### Step 7: (Optional) Try Canvas Mode
+[SCREENSHOT PLACEHOLDER - Canvas Mode Button]
+
 If you see a "Canvas" or code option:
 ```
 Create a simple HTML landing page for [YOUR APP NAME] with:
@@ -98,15 +129,17 @@ Take a screenshot if you like the result!
 
 ## Part 4: Share Your Creation (5 minutes)
 
-### Step 8: Post to Slack
-1. Go to our class Slack → #110-sec-[your section number] channel (ex: 110-sec-08-takats-tth-8am_)
-2. Find my message: "Share your 8am solution here!"
-3. **Click in the thread** (hover over message → "Reply in thread")
+### Step 8: Post to Slack - THIS IS YOUR SUBMISSION!
+1. Go to our class Slack → **#110-sec-[your section number]** channel 
+   - Example: `#110-sec-08-takats-tth-8am`
+2. Find my message: **"Share your AI brainstorm solution here!"**
+3. **IMPORTANT: Click "Reply in thread"** (hover over message → click speech bubble)
 4. Post:
    - **App/Product Name:** [Your creative name]
+   - **Problem Solved:** [Which problem you chose]
    - **One-liner:** [What it does in one fun sentence]
    - **Key insight:** [Something interesting Gemini helped you realize]
-   - **Image:** Upload your logo/mockup (if you like it)
+   - **Image:** Upload your logo/mockup (if you generated one)
    
 ### Step 9: Engage with others
 - React with emojis to ideas you love
@@ -122,12 +155,15 @@ Take a screenshot if you like the result!
 
 ✅ **Have fun with it** - the sillier ideas often lead to the best insights
 
-✅ **Save your chat** - You'll submit this for participation credit
+✅ **Save your chat** - You can share the link with others later
 
 ---
 
-## What to Submit (End of Class)
-DONT NEED TO SUBNIT TO MYCOURSES, just as long as you did the Slack message by end of day! (Detailed in Part 4)
+## ⚠️ IMPORTANT: How to Submit
+**You ONLY need to post in Slack (Step 8 above) by end of class today!**
+- No myCourses submission needed
+- I'll check Slack threads for participation credit
+- Must be posted by end of day to receive credit
 
 ---
 
