@@ -140,7 +140,7 @@ Take a screenshot if you like the result!
 ### Step 9: Engage with others - REQUIRED!
 - **You MUST reply to at least ONE classmate's post**
 - **Use "Reply in thread"** to comment on someone's idea
-- [SCREENSHOT PLACEHOLDER - Reply in Thread Button]
+- <img width="1059" height="123" alt="Screenshot 2025-08-28 at 1 50 51 PM" src="https://github.com/user-attachments/assets/c3b7b1d3-e26d-48ed-adfb-a8f8cb5cf6b6" />
 - Give them feedback, ask a question, or share what you like about their idea
 - React with emojis to ideas you love
 - Vote for "Most Practical" and "Most Ridiculous" with reactions!
