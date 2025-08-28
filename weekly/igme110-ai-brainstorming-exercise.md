@@ -99,7 +99,7 @@ Take a screenshot if you like the result!
 ## Part 4: Share Your Creation (5 minutes)
 
 ### Step 8: Post to Slack
-1. Go to our class Slack → #section-[your section number] channel
+1. Go to our class Slack → #110-sec-[your section number] channel (ex: 110-sec-08-takats-tth-8am_)
 2. Find my message: "Share your 8am solution here!"
 3. **Click in the thread** (hover over message → "Reply in thread")
 4. Post:
@@ -127,10 +127,7 @@ Take a screenshot if you like the result!
 ---
 
 ## What to Submit (End of Class)
-In the myCourses dropbox "AI Brainstorming Exercise":
-1. Copy/paste your final app/product description
-2. Paste the link to your Gemini chat (click "Share" in Gemini)
-3. Answer: Which AI response surprised you most and why? (2-3 sentences)
+DONT NEED TO SUBNIT TO MYCOURSES, just as long as you did the Slack message by end of day!
 
 ---
 
