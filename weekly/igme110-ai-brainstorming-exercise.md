@@ -127,7 +127,7 @@ Take a screenshot if you like the result!
 ---
 
 ## What to Submit (End of Class)
-DONT NEED TO SUBNIT TO MYCOURSES, just as long as you did the Slack message by end of day!
+DONT NEED TO SUBNIT TO MYCOURSES, just as long as you did the Slack message by end of day! (Detailed in Part 4)
 
 ---
 
