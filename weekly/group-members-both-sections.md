@@ -78,8 +78,7 @@
 ### Group 4
 1. **Gallardo, Jai Rafael** (jrg5716)
 2. **Kelly, Alex** (agk6263)
-3. **Nguyen, Xeno** (men6930)
-4. **Tidrick, Xander** (xet1871)
+3. **Tidrick, Xander** (xet1871)
 
 ### Group 5
 1. **Hawkins, James** (jch9648)
@@ -91,6 +90,7 @@
 1. **Andrus, Robin** (ra8532)
 2. **Hays, Jo** (jrh3206)
 3. **Smolarz, Elsa** (ess4589)
+4. 3. **Nguyen, Xeno** (men6930)
 
 ### Group 7 *(Group of 3)*
 1. **Batlle-Molina, James** (jab8085)
