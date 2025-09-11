@@ -79,7 +79,6 @@ Draft URL: https://docs.google.com/document/d/19BEb0MzXGNIjpljd0S9bNewUlm_tebFjw
 Draft URL: https://docs.google.com/document/d/1gnnVBSm4SMH2FDTAhZ26Muevn9XyyLVEztM3Vwq3hPE/
 - Gallardo, Jai Rafael (jrg5716)
 - Kelly, Alex (agk6263)
-- Nguyen, Xeno (men6930)
 - Tidrick, Xander (xet1871)
 
 ### Group 5 - *Scrollstopper(?)*
