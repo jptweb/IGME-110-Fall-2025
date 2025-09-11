@@ -3,7 +3,7 @@
 
 ## I. Overview
 - As a group, you will look at 2 other group's P1 Product Proposal drafts and critique them
-- Here is the --> [P1 Peer Eval Template](https://docs.google.com/document/d/11nYR3Sb2x5aQEldb_cTWHGy9yOE5ZJWc2vqFJuV-eFg/edit?usp=sharing) that contains the questions you will need to answer as a group
+- Here is the --> [P1 Peer Eval Template](https://docs.google.com/document/d/1CAPF8K9el4CezmS6bWnHoLaBGgV3lhGh40rxWIcxGd8/edit?usp=sharing) that contains the questions you will need to answer as a group
 
 ---
 
