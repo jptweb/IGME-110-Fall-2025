@@ -61,8 +61,8 @@ Draft URL: https://docs.google.com/document/d/1uyOmdjpx-geHPPX0k4hmrqWbKjbDA9c2F
 - Hopkins, Grace (ghh1655)
 - O'Connor, Cherri (rao4098)
 
-### Group 2 - *Screen time tracker that shows users what skills/activities they could have learned instead of scrolling*
-Draft URL: 
+### Group 2 - *Screen Time Translator*
+Draft URL: https://docs.google.com/document/d/1XstQ49QCPe1aUzVYF43APhCZiIF8HvDCLbBDodLuuck/
 - Beaudette, Auden (ajb7901)
 - Felton, Alex (af5868)
 - Kim, Junhyun (jk7169)
