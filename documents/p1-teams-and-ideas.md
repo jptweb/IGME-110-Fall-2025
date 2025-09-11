@@ -93,6 +93,7 @@ Draft URL: https://docs.google.com/document/d/1yOMXf8iWZyAOXdVjtSJqfzSHqFWP34PJ-
 - Andrus, Robin (ra8532)
 - Hays, Jo (jrh3206)
 - Smolarz, Elsa (ess4589)
+- Nguyen, Xeno (men6930)
 
 ### Group 7 - *Routine Smith*
 Draft URL: https://docs.google.com/document/d/13okHs4zNYqvwhy4dLfKTuFwLyu9vzUK5ohkRlm2-bRs/ (needs permission fix)
