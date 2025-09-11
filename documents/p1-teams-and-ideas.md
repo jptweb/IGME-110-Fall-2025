@@ -1,8 +1,8 @@
 # Project 1 Teams - Fall 2025 Section 2 & 8
 
 ## Menu
-[I. Section 08 (TTh 8:00AM-9:15AM)](#ii-section-08-tth-800am-915am)
-[II. Section 02 (TTh 2:00PM-3:15PM)](#i-section-02-tth-200pm-315pm)  
+- [I. Section 08 (TTh 8:00AM-9:15AM)](#ii-section-08-tth-800am-915am)
+- [II. Section 02 (TTh 2:00PM-3:15PM)](#i-section-02-tth-200pm-315pm)  
 
 ---
 
@@ -82,27 +82,27 @@ Draft URL: https://docs.google.com/document/d/1gnnVBSm4SMH2FDTAhZ26Muevn9XyyLVEz
 - Nguyen, Xeno (men6930)
 - Tidrick, Xander (xet1871)
 
-### Group 5 - *Scrollstopper*
-Draft URL: 
+### Group 5 - *Scrollstopper(?)*
+Draft URL: https://docs.google.com/document/d/1YorpqJY7THrlZZPV_U18RbwwAAn9zVwHmcDghvFT4xw/
 - Hawkins, James (jch9648)
 - LoCascio, John (jdl5357)
 - McIntosh, Ivy (fem1793)
 - Yang, Stephanie (sy7464)
 
-### Group 6 - *Item tracking app with virtual garden rewards for keeping belongings organized*
-Draft URL: 
+### Group 6 - *Forget-Me Not*
+Draft URL: https://docs.google.com/document/d/1yOMXf8iWZyAOXdVjtSJqfzSHqFWP34PJ-X0eFVskXLk/
 - Andrus, Robin (ra8532)
 - Hays, Jo (jrh3206)
 - Smolarz, Elsa (ess4589)
 
 ### Group 7 - *Routine Smith*
-Draft URL: 
+Draft URL: https://docs.google.com/document/d/13okHs4zNYqvwhy4dLfKTuFwLyu9vzUK5ohkRlm2-bRs/ (needs permission fix)
 - Batlle-Molina, James (jab8085)
 - Kilgallen, Devin (dbk5152)
 - Zhang, Frank (fz5965)
 
 ### Group 8 - *Anime-themed alarm clock doll designed to wake users up in the morning*
-Draft URL: 
+Draft URL: https://docs.google.com/document/d/18sY8b6NHwszvQt2GGiIKRj8xKX0rDgyQtUzIqpJLhjk/
 - Madiam, Liam (lxm5430)
 - Parks, Campbell (cmp9971)
 - Zhao, QiuYu
