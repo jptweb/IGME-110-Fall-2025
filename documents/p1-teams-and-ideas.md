@@ -1,10 +1,49 @@
 # Project 1 Teams - Fall 2025 Section 2 & 8
 
 ## Menu
-[I. Section 02 (TTh 2:00PM-3:15PM)](#i-section-02-tth-200pm-315pm)  
-[II. Section 08 (TTh 8:00AM-9:15AM)](#ii-section-08-tth-800am-915am)
+[I. Section 08 (TTh 8:00AM-9:15AM)](#ii-section-08-tth-800am-915am)
+[II. Section 02 (TTh 2:00PM-3:15PM)](#i-section-02-tth-200pm-315pm)  
 
 ---
+
+## I. Section 08 (TTh 8:00AM-9:15AM)
+
+### Group 1: *Aperture Laboratories Motivation Initiative*
+- Turner, Jimmy (jjt5094)
+- Safko, Evan (egs4340)
+- Breitkopf, AJ (ajb3937)
+- Gaul, Colin (ceg8057)
+
+### Group 2 - *Swindle Spotter*
+- Amey, Will (wca8089)
+- Harsche, Caleb (crh8855)
+- Lei, Ziheng (zl9740)
+- Waiters, Brayden (bcw3192)
+
+### Group 3 - *Grub Guru*
+- Baker, Dakota (dmb9325)
+- Emilov, Nazar (ne6825)
+- McMillan, Nathalia (nam1565)
+- Whitesides, Oliver (odw2227)
+
+### Group 4 - *RIT Foodie*
+- Cameron, Jonathan (jsc5242)
+- Edinberg, Will (wie8075)
+- Piper, Samantha (srp9005)
+- Schreibeis, Trevor (tjs2456)
+
+### Group 5 - *Quiz Break*
+- Alegi, Gus (gja9864)
+- Cash, Sly (smc4598)
+- Corker, Brandon (bdc7684)
+- Siple, Valerie (bds5335)
+
+### Group 6 - *Mindful Scroller*
+- Allen, Shelby (sea8097)
+- Gluzdov, Lev (ltg7412)
+- Kametz, Aidan (ack3885)
+- Mulet-Soltren, Darien (dm8801)
+- Westerfield, Harrison (hjw7564)
 
 ## I. Section 02 (TTh 2:00PM-3:15PM)
 
@@ -55,42 +94,3 @@
 - Zhao, QiuYu
 
 ---
-
-## II. Section 08 (TTh 8:00AM-9:15AM)
-
-### Group 1
-- Turner, Jimmy (jjt5094)
-- Safko, Evan (egs4340)
-- Breitkopf, AJ (ajb3937)
-- Gaul, Colin (ceg8057)
-
-### Group 2 - *AI-powered scam detection app for catfishing, phishing, and financial fraud prevention*
-- Amey, Will (wca8089)
-- Harsche, Caleb (crh8855)
-- Lei, Ziheng (zl9740)
-- Waiters, Brayden (bcw3192)
-
-### Group 3 - *Grub Guru - A nutritional app that takes a photo of the products in your fridge, then comes up with a recipe that you can make*
-- Baker, Dakota (dmb9325)
-- Emilov, Nazar (ne6825)
-- McMillan, Nathalia (nam1565)
-- Whitesides, Oliver (odw2227)
-
-### Group 4 - *RIT Foodie - Campus dining optimization app for avoiding lines and pre-ordering meals at RIT*
-- Cameron, Jonathan (jsc5242)
-- Edinberg, Will (wie8075)
-- Piper, Samantha (srp9005)
-- Schreibeis, Trevor (tjs2456)
-
-### Group 5 - *Quiz Break*
-- Alegi, Gus (gja9864)
-- Cash, Sly (smc4598)
-- Corker, Brandon (bdc7684)
-- Siple, Valerie (bds5335)
-
-### Group 6 - *Mindful Scrollers - Instagram plugin that tracks reel consumption and suggests real-world activities as alternatives*
-- Allen, Shelby (sea8097)
-- Gluzdov, Lev (ltg7412)
-- Kametz, Aidan (ack3885)
-- Mulet-Soltren, Darien (dm8801)
-- Westerfield, Harrison (hjw7564)
