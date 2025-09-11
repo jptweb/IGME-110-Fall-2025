@@ -54,10 +54,10 @@
 | Your Team & App | You Review These Teams |
 |-----------------|------------------------|
 | **Team 1:** Jax Blocks | [Team 3: Better RIT App](https://docs.google.com/document/d/19BEb0MzXGNIjpljd0S9bNewUlm_tebFjw22uZOMDIdk/) & [Team 5: Scrollstopper](https://docs.google.com/document/d/1YorpqJY7THrlZZPV_U18RbwwAAn9zVwHmcDghvFT4xw/) |
-| **Team 2:** Screen Time Tracker | [Team 4: Fried Phish](https://docs.google.com/document/d/1gnnVBSm4SMH2FDTAhZ26Muevn9XyyLVEztM3Vwq3hPE/) & [Team 6: Forget-Me Not](https://docs.google.com/document/d/1yOMXf8iWZyAOXdVjtSJqfzSHqFWP34PJ-X0eFVskXLk/) |
+| **Team 2:** Screen Time Translator | [Team 4: Fried Phish](https://docs.google.com/document/d/1gnnVBSm4SMH2FDTAhZ26Muevn9XyyLVEztM3Vwq3hPE/) & [Team 6: Forget-Me Not](https://docs.google.com/document/d/1yOMXf8iWZyAOXdVjtSJqfzSHqFWP34PJ-X0eFVskXLk/) |
 | **Team 3:** Better RIT App | [Team 5: Scrollstopper](https://docs.google.com/document/d/1YorpqJY7THrlZZPV_U18RbwwAAn9zVwHmcDghvFT4xw/) & [Team 7: Routine Smith](https://docs.google.com/document/d/13okHs4zNYqvwhy4dLfKTuFwLyu9vzUK5ohkRlm2-bRs/) |
 | **Team 4:** Fried Phish | [Team 6: Forget-Me Not](https://docs.google.com/document/d/1yOMXf8iWZyAOXdVjtSJqfzSHqFWP34PJ-X0eFVskXLk/) & [Team 8: Anime Alarm](https://docs.google.com/document/d/18sY8b6NHwszvQt2GGiIKRj8xKX0rDgyQtUzIqpJLhjk/) |
 | **Team 5:** Scrollstopper | [Team 7: Routine Smith](https://docs.google.com/document/d/13okHs4zNYqvwhy4dLfKTuFwLyu9vzUK5ohkRlm2-bRs/) & [Team 1: Jax Blocks](https://docs.google.com/document/d/1uyOmdjpx-geHPPX0k4hmrqWbKjbDA9c2FwQTN2P2B6g/) |
-| **Team 6:** Forget-Me Not | [Team 8: Anime Alarm](https://docs.google.com/document/d/18sY8b6NHwszvQt2GGiIKRj8xKX0rDgyQtUzIqpJLhjk/) & Team 2: Screen Time *(missing link)* |
+| **Team 6:** Forget-Me Not | [Team 8: Anime Alarm](https://docs.google.com/document/d/18sY8b6NHwszvQt2GGiIKRj8xKX0rDgyQtUzIqpJLhjk/) & [Team 2: Screen Time Translator](https://docs.google.com/document/d/1XstQ49QCPe1aUzVYF43APhCZiIF8HvDCLbBDodLuuck/) |
 | **Team 7:** Routine Smith | [Team 1: Jax Blocks](https://docs.google.com/document/d/1uyOmdjpx-geHPPX0k4hmrqWbKjbDA9c2FwQTN2P2B6g/) & [Team 3: Better RIT App](https://docs.google.com/document/d/19BEb0MzXGNIjpljd0S9bNewUlm_tebFjw22uZOMDIdk/) |
-| **Team 8:** Anime Alarm | Team 2: Screen Time *(missing link)* & [Team 4: Fried Phish](https://docs.google.com/document/d/1gnnVBSm4SMH2FDTAhZ26Muevn9XyyLVEztM3Vwq3hPE/) |
+| **Team 8:** Anime Alarm | [Team 2: Screen Time Translator](https://docs.google.com/document/d/1XstQ49QCPe1aUzVYF43APhCZiIF8HvDCLbBDodLuuck/) & [Team 4: Fried Phish](https://docs.google.com/document/d/1gnnVBSm4SMH2FDTAhZ26Muevn9XyyLVEztM3Vwq3hPE/) |
