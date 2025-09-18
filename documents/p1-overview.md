@@ -1,5 +1,4 @@
 # Project 1 - App Proposal
-# Project 1 - App Proposal
 
 ## I. Overview
 - For project 1 you will work in a small group and create a written proposal for an “app”
