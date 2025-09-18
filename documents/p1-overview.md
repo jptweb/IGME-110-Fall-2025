@@ -20,7 +20,7 @@
 ---
 
 ## II. Teams
-- [P1 Teams](p1-teams.md)
+- [P1 Teams](p1-teams-and-ideas.md)
 
 ---
 
@@ -29,7 +29,7 @@
 - P1 Product Proposal - *Work Plan*
 - P1 Product Proposal - *Draft*
 - P1 Product Proposal - *Final*
-- For the draft & final version use this [proposal template](), and follow these [proposal template instructions]()
+- For the draft & final version use this [proposal template](https://docs.google.com/document/d/1kf8tE2aJdK3cHz8Lt3Q-ipGpfdDZdv2abypi8rDThsQ/), and follow these [proposal template instructions](https://docs.google.com/document/u/1/d/1odCPGxzw_skckC3-mhqWKHlN2Pg3lSIOXAcNRS76qWA/copy)
 ## I. Overview
 - For project 1 you will work in a small group and create a written proposal for an “app”
 - For the purposes of the assignment, this app could be a phone or desktop app, a web site or even a physical product
