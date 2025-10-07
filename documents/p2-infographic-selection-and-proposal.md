@@ -47,12 +47,20 @@ Keep in mind that infographics are primarily intended for displaying data in an 
 
 ### 4. Mood Board
 **Create a visual mood board that establishes your design direction.**
+- this is separate from the in-class mood board activity you did earlier.
 
 The mood board should include examples of:
 - **Typography:** Fonts that would work well for your audience and message
 - **Colors:** A color palette appropriate for your topic and tone
 - **Images/Graphics:** Visual styles, icons, or illustrations that inspire your approach
+  - **NEW - For images, look for:** ADDED 10/7/2026 after some questions I got from a student
+  - Visual styles that match your app's purpose (e.g., if it's a fitness app, images showing activity, health, motivation)
+  - Graphics/illustrations that reflect your chosen tone (playful, professional, energetic, calming, etc.)
+  - Icons or visual elements that could work for your data presentation
+  - **The key**: Your images should help communicate *how* you'll visually present information about your chosen app to your target audience. They should reflect both "what it's about" (the app topic) AND "how it should feel" (the tone/audience fit).
 - **Reference Examples:** Other infographics or designs that influence your vision
+  - **Pro tip**: Look at successful infographics in the same domain as your app for inspiration - this helps you see how others have visualized similar topics for similar audiences.
+
 
 ## Submission Requirements
 - Format: Single .docx file
