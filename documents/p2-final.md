@@ -14,7 +14,9 @@
   - the ***Content*** and ***Title*** are understandable and legible
   - the ***Image*** is relevant to the content
   - the ***Image*** easy to recognize at a glance
- 
+
+**NEW** [RUBRIC FOR Project 2 Infographic](https://github.com/jptweb/IGME-110-Fall-2025/blob/main/documents/p2-Infographic-Rubric.pdf) has been added. Review this prior to submittng.
+
 ---
 
 ## II. Documentation Requirements
