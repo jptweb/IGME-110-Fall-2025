@@ -15,7 +15,10 @@
   - the ***Image*** is relevant to the content
   - the ***Image*** easy to recognize at a glance
 
-**NEW** [RUBRIC FOR Project 2 Infographic](https://github.com/jptweb/IGME-110-Fall-2025/blob/main/documents/p2-Infographic-Rubric.pdf) has been added. Review this prior to submittng.
+**NEW TIPS ADDED 10/16/25** 
+- [RUBRIC FOR Project 2 Infographic](https://github.com/jptweb/IGME-110-Fall-2025/blob/main/documents/p2-Infographic-Rubric.pdf) has been added. Review this prior to submittng.
+
+- Recreate charts and graphs for infographic if needed. As discussed in [Week 8B](https://github.com/jptweb/IGME-110-Fall-2025/blob/main/weekly/8B.md#iii-creating-cohesive-charts--graphics) you should be creating cohesive charts & graphics for your infographic. If you just copied and pasted existing charts from the app proposal; they likely don't match your color scheme and may be pixelated and hard to read. You likely need to recreate any mismatched charts using Canva or PowerPoint! Tips are located in the Week 8B Notes on how to do this.
 
 ---
 
