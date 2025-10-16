@@ -28,6 +28,7 @@
 - Be sure to clearly state the audience and goals of the infographic, and to explain your design decisions
 - Explain how feedback you received influenced your design
 - You will be also graded on your writing quality (grammar, spelling, syntax)
+- **Note added 10/16/25:** Consider specifying the intended display context for your infographic in your documentation. For example, small typography might work well for a large-format bus station ad but would be difficult to read on a standard poster. Feel free to use your documentation to justify how your design choices align with your intended display format. This is mandatory, but could assist me when I grade these if I find concerns.
 
 ---
 
