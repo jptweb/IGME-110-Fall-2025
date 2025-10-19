@@ -205,6 +205,8 @@ Footer Group:
 2. This creates a new frame around just these cards
 3. **Drag this new frame back** into the mobile frame
 4. Position it where you want the horizontal scroll area
+<img width="616" height="301" alt="prototype-horizontal-frame-selection" src="https://github.com/user-attachments/assets/33832cc0-c918-438e-9299-b688dad50e9c" />
+
 
 **Result:** Cards are now in their own frame that we can control
 
