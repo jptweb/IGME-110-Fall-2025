@@ -299,6 +299,7 @@ Icon → Page 2:
 2. Drag blue circle to **Page 1**
 
 **Result:** Users can now click between pages using tab icons
+<img width="767" height="683" alt="prototype-step14" src="https://github.com/user-attachments/assets/bba80801-213f-48d5-8802-a891233c832e" />
 
 **Key Point:** Complete navigation requires links in both directions
 **Common Issues:** Linking same icon on both pages - users expect consistent icon meanings
