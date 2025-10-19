@@ -100,6 +100,7 @@ At this point you should have:
 - Three content cards in the middle
 - Bottom tab bar with 3 icon placeholders
 - A working prototype link (not yet interactive)
+<img width="243" height="472" alt="prototype-checkpoint-1" src="https://github.com/user-attachments/assets/84e5b60c-f71b-4bb4-b84a-0f66d950694c" />
 
 ---
 
