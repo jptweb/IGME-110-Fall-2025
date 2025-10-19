@@ -123,6 +123,7 @@ At this point you should have:
 
 ### STEP 7: Fix Header to Top (Sticky Positioning)
 **Action:** Make header stay visible during scroll
+<img width="633" height="556" alt="prototype-fixed-header" src="https://github.com/user-attachments/assets/c1e061c3-caa1-4526-a4bf-f25f3b94b21f" />
 
 1. Select **all header elements** (rectangle + text)
 2. Hold `Ctrl` to ensure you're selecting everything
@@ -149,6 +150,8 @@ Header Group:
 
 1. Select **all footer elements** (rectangle + icons)
 2. Right-click → **"Group Selection"** (or `Cmd/Ctrl + G`)
+** Step 3 This step seems to have changed in newer figma??** 
+GOTO the design tab when group is selected. Not sure if these steps are right; but its doable
 3. In right panel under **Constraint**
 4. Click **bottom line** to change constraint to bottom
 5. Check **"Fixed position when scrolling"** box
