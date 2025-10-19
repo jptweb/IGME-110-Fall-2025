@@ -154,9 +154,11 @@ Header Group:
 2. Right-click → **"Group Selection"** (or `Cmd/Ctrl + G`)
 ** Step 3 This step seems to have changed in newer figma??** 
 > For steps 3 and 4 next... Figma made this harder to find. GOTO the design tab when group is selected. There is a thing you can click to make it fixed / sticky to the bottom of the page. So follow steps 3 and 4 the best you can; not sure if I can provide verbal steps here as its hard to spot!
-3. In right panel under **Constraint**
+3. In right panel under **Constraint** (I think? just figure out how to do this; its no longer labeled "Constraint" but the setting is there)
 4. Click **bottom line** to change constraint to bottom
 5. Check **"Fixed position when scrolling"** box
+<img width="1080" height="2400" alt="prototype-footer-constraint-bottom" src="https://github.com/user-attachments/assets/825e8a6f-a05b-4668-a7e4-2e0a6748c3e6" />
+
 
 **Code Example (Properties):**
 ```
