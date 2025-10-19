@@ -157,7 +157,8 @@ Header Group:
 3. In right panel under **Constraint** (I think? just figure out how to do this; its no longer labeled "Constraint" but the setting is there)
 4. Click **bottom line** to change constraint to bottom
 5. Check **"Fixed position when scrolling"** box
-<img width="1080" height="2400" alt="prototype-footer-constraint-bottom" src="https://github.com/user-attachments/assets/825e8a6f-a05b-4668-a7e4-2e0a6748c3e6" />
+<img width="252" height="556" alt="prototype-footer-constraint-bottom" src="https://github.com/user-attachments/assets/18ee30ed-d6cd-4d19-bd80-81008383af76" />
+
 
 
 **Code Example (Properties):**
