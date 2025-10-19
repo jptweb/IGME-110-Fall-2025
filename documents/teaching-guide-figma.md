@@ -224,6 +224,8 @@ Footer Group:
 2. Adjust **frame width** to match phone width (so cards overflow)
 3. In right panel, check **"Clip content"** box
 4. In **Prototype tab**, enable **"Horizontal scrolling"**
+<img width="726" height="433" alt="prototype-horizontal-enabled" src="https://github.com/user-attachments/assets/d34414b4-edf9-497c-9fe5-3ec04b10c158" />
+
 
 **Code Example (Properties):**
 ```
