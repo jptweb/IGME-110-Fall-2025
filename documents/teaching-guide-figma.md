@@ -276,6 +276,8 @@ Cards Frame:
 4. Release to create the connection
 
 **Result:** Clicking that icon now navigates to Page 2
+<img width="767" height="683" alt="prototype-step13" src="https://github.com/user-attachments/assets/ac1eb7eb-b4f7-47bb-b9e6-587257f5e691" />
+
 
 **Code Example (Interaction Details):**
 ```
