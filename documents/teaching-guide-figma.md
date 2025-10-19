@@ -252,10 +252,16 @@ Cards Frame:
 
 ---
 
-> NOTE! I'd suggest possibly making the header & Footer COMPONENTS NOW! as opposed to later; but don't think i'll be able to rewrite this tutorial to reflect that; but may do that in class!
+
 ### OPTIONAL STEP 11.5
+> NOTE! I'd suggest possibly making the header & Footer COMPONENTS NOW! as opposed to later; but don't think i'll be able to rewrite this tutorial to reflect that; but may do that in class!
 
 - Make the header and footer into components NOW. These are resuable pieces when you start cloning out multiple pages for the prototype the issue is if we change something in the header and footer; we would need to change it manually on every page. It would be helpful to make the header and footer a component NOW. that way when you do the next step (step 12+) it uses the shared component of header and footer! 
+- However the rest of the steps haven't taken that we did this into account but it should be pretty similar.
+<img width="767" height="535" alt="prototype-step-11-5" src="https://github.com/user-attachments/assets/1e8db697-b576-424f-84c3-b6334c32ba29" />
+
+
+
 ---
 
 
