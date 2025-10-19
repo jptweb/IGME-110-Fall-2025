@@ -13,7 +13,7 @@
 ### STEP 1: Create a New Prototype File
 **Action:** Set up the initial workspace and mobile frame
 
-1. Create new Figma file
+1. Create new Figma "Design" file
 2. Name it "Prototype Practice"
 3. Press `F` to create a frame
 4. Select mobile phone frame size (iPhone or Android based on your device)
