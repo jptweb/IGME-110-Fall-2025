@@ -252,6 +252,8 @@ Cards Frame:
 
 ---
 
+> NOTE! I'd suggest possibly making the header & Footer COMPONENTS NOW! as opposed to later; but don't think i'll be able to rewrite this tutorial to reflect that; but may do that in class!
+
 ### STEP 12: Create a Second Page
 **Action:** Build a new screen for navigation testing
 
