@@ -5,6 +5,8 @@
 - **Estimated Time:** 45-60 minutes for demonstration and practice
 - **Prerequisites:** Basic Figma familiarity (creating frames, shapes, and text)
 - **Setup Needed:** Figma account, mobile device with Figma app (optional but recommended)
+![figma_demo3](https://github.com/user-attachments/assets/52ac1734-dd53-4a01-bad7-4fae19223f84)
+
 
 ---
 
