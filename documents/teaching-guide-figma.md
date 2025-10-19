@@ -128,8 +128,10 @@ At this point you should have:
 1. Select **all header elements** (rectangle + text)
 2. Hold `Ctrl` to ensure you're selecting everything
 3. Right-click → **"Group Selection"** (or `Cmd/Ctrl + G`)
+You probably don't have to do step 4 and 5, as TOP is already constraint by default.
 4. In right panel under **Constraint**
 5. Keep top constraint active
+DO THIS Atleast (see screenshot):
 6. Check **"Fixed position when scrolling"** box
 
 **Code Example (Properties):**
