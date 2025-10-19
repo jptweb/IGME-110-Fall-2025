@@ -192,7 +192,8 @@ Footer Group:
 3. Copy and paste to create multiple cards **side by side**
 4. Select **all upper cards**
 5. Drag them **out of the main frame** temporarily
-<img width="243" height="472" alt="prototype-checkpoint-1" src="https://github.com/user-attachments/assets/ed5db45e-e0cf-4899-963e-6b77c9740634" />
+<img width="434" height="152" alt="prototype-horizontal-create-boxes" src="https://github.com/user-attachments/assets/c7e4684b-9bf4-41e3-a9a2-3e4b8de5d1fe" />
+
 
 **Key Point:** We're building a contained horizontal scroll area separate from the vertical page scroll
 **Common Issues:** Trying to make cards scroll horizontally while still in the main frame - won't work
