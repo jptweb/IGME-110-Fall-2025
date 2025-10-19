@@ -126,6 +126,7 @@ At this point you should have:
 
 ### STEP 7: Fix Header to Top (Sticky Positioning)
 **Action:** Make header stay visible during scroll
+
 <img width="633" height="556" alt="prototype-fixed-header" src="https://github.com/user-attachments/assets/c1e061c3-caa1-4526-a4bf-f25f3b94b21f" />
 
 1. Select **all header elements** (rectangle + text)
