@@ -6,7 +6,7 @@
 - **Prerequisites:** Basic Figma familiarity (creating frames, shapes, and text)
 - **Setup Needed:** Figma account, mobile device with Figma app (optional but recommended)
   
-![figma_demo3](https://github.com/user-attachments/assets/52ac1734-dd53-4a01-bad7-4fae19223f84)
+![figma_demo3](_images/figma-demo3.png)
 
 
 ---
@@ -103,7 +103,7 @@ At this point you should have:
 - Three content cards in the middle
 - Bottom tab bar with 3 icon placeholders
 - A working prototype link (not yet interactive)
-<img width="243" height="472" alt="prototype-checkpoint-1" src="https://github.com/user-attachments/assets/84e5b60c-f71b-4bb4-b84a-0f66d950694c" />
+<img width="243" height="472" alt="prototype-checkpoint-1" src="_images/prototype-checkpoint-1.png" />
 
 ---
 
@@ -127,7 +127,7 @@ At this point you should have:
 ### STEP 7: Fix Header to Top (Sticky Positioning)
 **Action:** Make header stay visible during scroll
 
-<img width="633" height="556" alt="prototype-fixed-header" src="https://github.com/user-attachments/assets/c1e061c3-caa1-4526-a4bf-f25f3b94b21f" />
+<img width="633" height="556" alt="prototype-fixed-header" src="_images/prototype-fixed-header.png" />
 
 1. Select **all header elements** (rectangle + text)
 2. Hold `Ctrl` to ensure you're selecting everything
@@ -161,7 +161,7 @@ Header Group:
 3. In right panel under **Constraint** (I think? just figure out how to do this; its no longer labeled "Constraint" but the setting is there)
 4. Click **bottom line** to change constraint to bottom
 5. Check **"Fixed position when scrolling"** box
-<img width="252" height="556" alt="prototype-footer-constraint-bottom" src="https://github.com/user-attachments/assets/18ee30ed-d6cd-4d19-bd80-81008383af76" />
+<img width="252" height="556" alt="prototype-footer-constraint-bottom" src="_images/prototype-footer-constraint-bottom.png" />
 
 
 
@@ -196,7 +196,7 @@ Footer Group:
 3. Copy and paste to create multiple cards **side by side**
 4. Select **all upper cards**
 5. Drag them **out of the main frame** temporarily
-<img width="434" height="152" alt="prototype-horizontal-create-boxes" src="https://github.com/user-attachments/assets/c7e4684b-9bf4-41e3-a9a2-3e4b8de5d1fe" />
+<img width="434" height="152" alt="prototype-horizontal-create-boxes" src="_images/prototype-horizontal-create-boxes.png" />
 
 
 **Key Point:** We're building a contained horizontal scroll area separate from the vertical page scroll
@@ -211,7 +211,7 @@ Footer Group:
 2. This creates a new frame around just these cards
 3. **Drag this new frame back** into the mobile frame
 4. Position it where you want the horizontal scroll area
-<img width="616" height="301" alt="prototype-horizontal-frame-selection" src="https://github.com/user-attachments/assets/33832cc0-c918-438e-9299-b688dad50e9c" />
+<img width="616" height="301" alt="prototype-horizontal-frame-selection" src="_images/prototype-horizontal-frame-selection.png" />
 
 
 **Result:** Cards are now in their own frame that we can control
@@ -228,7 +228,7 @@ Footer Group:
 2. Adjust **frame width** to match phone width (so cards overflow)
 3. In right panel, check **"Clip content"** box
 4. In **Prototype tab**, enable **"Horizontal scrolling"**
-<img width="726" height="433" alt="prototype-horizontal-enabled" src="https://github.com/user-attachments/assets/d34414b4-edf9-497c-9fe5-3ec04b10c158" />
+<img width="726" height="433" alt="prototype-horizontal-enabled" src="_images/prototype-horizontal-enabled.png" />
 
 
 **Code Example (Properties):**
@@ -262,7 +262,7 @@ Cards Frame:
 
 - Make the header and footer into components NOW. These are resuable pieces when you start cloning out multiple pages for the prototype the issue is if we change something in the header and footer; we would need to change it manually on every page. It would be helpful to make the header and footer a component NOW. that way when you do the next step (step 12+) it uses the shared component of header and footer! 
 - However the rest of the steps haven't taken that we did this into account but it should be pretty similar.
-<img width="767" height="535" alt="prototype-step-11-5" src="https://github.com/user-attachments/assets/1e8db697-b576-424f-84c3-b6334c32ba29" />
+<img width="767" height="535" alt="prototype-step-11-5" src="_images/prototype-step-11-5.png" />
 
 
 
@@ -293,7 +293,7 @@ Cards Frame:
 4. Release to create the connection
 
 **Result:** Clicking that icon now navigates to Page 2
-<img width="767" height="683" alt="prototype-step13" src="https://github.com/user-attachments/assets/ac1eb7eb-b4f7-47bb-b9e6-587257f5e691" />
+<img width="767" height="683" alt="prototype-step13" src="_images/prototype-step13.png" />
 
 
 **Code Example (Interaction Details):**
@@ -316,7 +316,7 @@ Icon → Page 2:
 2. Drag blue circle to **Page 1**
 
 **Result:** Users can now click between pages using tab icons
-<img width="767" height="683" alt="prototype-step14" src="https://github.com/user-attachments/assets/bba80801-213f-48d5-8802-a891233c832e" />
+<img width="767" height="683" alt="prototype-step14" src="_images/prototype-step14.png" />
 
 **Key Point:** Complete navigation requires links in both directions
 **Common Issues:** Linking same icon on both pages - users expect consistent icon meanings
