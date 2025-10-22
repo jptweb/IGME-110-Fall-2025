@@ -3,7 +3,9 @@
 
 ## Welcome!
 
-This repository contains much of course materials, weekly schedules, project guidelines, and resources for IGME-110. Whether you're a Game Design & Development student, New Media Interactive Development student, or taking this as an elective, this will be your central hub for navigating the course.
+This repository contains much of course materials, weekly schedules, project guidelines, and resources for IGME-110. HOWEVER, you still want to use MyCourses as the source of truth for getting links to material and finding out deadlines. Github is used though for creating easy to maintain, share, and keep version control of many of our instructions and assets you will use in this class.
+
+Whether you're a Game Design & Development student, New Media Interactive Development student, or taking this as an elective, this will be your central hub for navigating the course.
 
 ## 📚 Course Overview
 
