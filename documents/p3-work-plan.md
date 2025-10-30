@@ -5,6 +5,7 @@
 - You will also develop *personas* of who might use this app/experience, and a draft list of features these users might require
 
 ---
+> **To Find your team and browse the projects to pick from go back a step [ [< P3 Teams](p3-teams.md) ]
 
 ## I. Requirements
 - This plan will serve as a roadmap for your project and must include project goals, roles, responsibilities, tasks, timelines. 
