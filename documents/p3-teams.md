@@ -111,6 +111,8 @@ PS: Professor Jefferson also add the infographics for sections 04/05/06/09 you c
 
 ## Section 02 - Project 3 Teams (TTh 2:00PM-3:15PM)
 
+> Lol I realize section 2 it did it by alphabetical ordering though it did keep people on different teams then their first! oh well still new teams
+
 ### Team 1: "TBD" (3 members)
 - **Andrus, Robin** (ra8532) - *was P1 Group 6*
 - **Bansal, Akshat** (ab9029) - *was P1 Group 1*
