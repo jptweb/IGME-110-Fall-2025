@@ -36,7 +36,8 @@ A persona is NOT just a name and one sentence. Each persona should be **at least
 > "Sarah, 20, college student. Needs to organize her schedule."
 
 **✅ GOOD Example (Detailed & Useful):**
-> "Sarah Martinez, 20, is a sophomore commuter student at RIT majoring in Game Design. She works 15 hours/week at Crossroads and commutes 45 minutes each way from her parents' house in Greece, NY. She's juggling 18 credit hours, her part-time job, and trying to stay involved in the Game Design club. She currently uses her phone's basic calendar but constantly misses club meetings and study group sessions because notifications get lost among her other apps. She needs a way to visualize her entire week at a glance and get smarter reminders that account for her commute time. As she puts it: 'I feel like I'm always running late or forgetting something important. I know I wrote it down somewhere but I can't keep track of everything.'"
+<img width="1056" height="816" alt="good-persona" src="https://github.com/user-attachments/assets/943f5636-a7ae-4746-b4d5-7d3435abb678" />
+
 
 **Your personas must include:**
 - Name and realistic demographics (age, occupation, living situation, tech comfort level)
