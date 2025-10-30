@@ -39,6 +39,8 @@ After reading this to bottom and finding your team head to [**Next --> Deliv. #1
 - Trinkt
 - Wize Wizard
 
+or use the random generator: https://people.rit.edu/~jxtadm/110picker/
+
 ---
 
 ## II. *Where* are the Proposals?
