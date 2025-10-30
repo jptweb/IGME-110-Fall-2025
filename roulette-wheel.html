@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Roulette Wheel</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+        }
+
+        h1 {
+            color: white;
+            margin-bottom: 30px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .wheel-container {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #wheelCanvas {
+            border-radius: 50%;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            background: white;
+        }
+
+        .pointer {
+            position: absolute;
+            top: -20px;
+            width: 0;
+            height: 0;
+            border-left: 20px solid transparent;
+            border-right: 20px solid transparent;
+            border-top: 40px solid #ff4444;
+            filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3));
+            z-index: 10;
+        }
+
+        .center-circle {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 60px;
+            height: 60px;
+            background: white;
+            border-radius: 50%;
+            border: 4px solid #333;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            z-index: 5;
+        }
+
+        #spinButton {
+            margin-top: 30px;
+            padding: 15px 40px;
+            font-size: 20px;
+            font-weight: bold;
+            color: white;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+            transition: all 0.3s ease;
+        }
+
+        #spinButton:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+        }
+
+        #spinButton:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        #result {
+            margin-top: 30px;
+            padding: 20px 40px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+            min-height: 70px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        #result h2 {
+            color: #333;
+            text-align: center;
+        }
+
+        .winner {
+            color: #f5576c !important;
+            font-size: 28px !important;
+            animation: pulse 1s ease-in-out;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+        }
+    </style>
+</head>
+<body>
+    <h1>Project Roulette Wheel</h1>
+
+    <div class="wheel-container">
+        <div class="pointer"></div>
+        <canvas id="wheelCanvas" width="500" height="500"></canvas>
+        <div class="center-circle"></div>
+    </div>
+
+    <button id="spinButton">SPIN THE WHEEL!</button>
+
+    <div id="result">
+        <h2>Click the button to spin!</h2>
+    </div>
+
+    <script>
+        const options = [
+            "AcadeMeet",
+            "Anime Plushies",
+            "Aperture Labs",
+            "ARG Pirate Finder",
+            "Better RIT",
+            "Campus Compass",
+            "Corvid Casual",
+            "CozPlanner",
+            "DormBot",
+            "DrawBed",
+            "EXPQuest",
+            "Forget Me Not",
+            "Fried Phish",
+            "Grub Guru",
+            "Honey Link",
+            "Index Of Nature",
+            "Jax Blocks",
+            "Lavigator",
+            "Nobia",
+            "Phone Drone",
+            "RaiseRunner",
+            "Screen Time Translator",
+            "Session Zero",
+            "SHREAK",
+            "SlangLang",
+            "SmartBite",
+            "Task Town",
+            "Trinkt",
+            "Wize Wizard"
+        ];
+
+        const colors = [
+            '#FF6B6B', '#4ECDC4', '#45B7D1', '#FFA07A', '#98D8C8',
+            '#F7DC6F', '#BB8FCE', '#85C1E2', '#F8B739', '#52B788',
+            '#FF9FF3', '#54A0FF', '#48DBFB', '#FF6348', '#1DD1A1',
+            '#FD79A8', '#A29BFE', '#6C5CE7', '#00D2D3', '#FDA7DF',
+            '#F368E0', '#FF7979', '#BADC58', '#686DE0', '#30336B',
+            '#95AFC0', '#FF4757', '#2ED573', '#FFA502'
+        ];
+
+        const canvas = document.getElementById('wheelCanvas');
+        const ctx = canvas.getContext('2d');
+        const spinButton = document.getElementById('spinButton');
+        const resultDiv = document.getElementById('result');
+
+        let currentRotation = 0;
+        let isSpinning = false;
+
+        function drawWheel() {
+            const centerX = canvas.width / 2;
+            const centerY = canvas.height / 2;
+            const radius = 240;
+            const numOptions = options.length;
+            const anglePerOption = (2 * Math.PI) / numOptions;
+
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.save();
+            ctx.translate(centerX, centerY);
+            ctx.rotate(currentRotation);
+
+            // Draw each segment
+            for (let i = 0; i < numOptions; i++) {
+                const startAngle = i * anglePerOption;
+                const endAngle = startAngle + anglePerOption;
+
+                // Draw segment
+                ctx.beginPath();
+                ctx.moveTo(0, 0);
+                ctx.arc(0, 0, radius, startAngle, endAngle);
+                ctx.closePath();
+                ctx.fillStyle = colors[i];
+                ctx.fill();
+                ctx.strokeStyle = '#fff';
+                ctx.lineWidth = 3;
+                ctx.stroke();
+
+                // Draw text
+                ctx.save();
+                ctx.rotate(startAngle + anglePerOption / 2);
+                ctx.textAlign = 'right';
+                ctx.fillStyle = '#fff';
+                ctx.font = 'bold 14px Arial';
+                ctx.shadowColor = 'rgba(0, 0, 0, 0.5)';
+                ctx.shadowBlur = 3;
+                ctx.fillText(options[i], radius - 20, 5);
+                ctx.restore();
+            }
+
+            ctx.restore();
+        }
+
+        function getWinningOption(finalRotation) {
+            const normalizedRotation = (2 * Math.PI - (finalRotation % (2 * Math.PI))) % (2 * Math.PI);
+            const anglePerOption = (2 * Math.PI) / options.length;
+            const winningIndex = Math.floor(normalizedRotation / anglePerOption);
+            return options[winningIndex];
+        }
+
+        function spinWheel() {
+            if (isSpinning) return;
+
+            isSpinning = true;
+            spinButton.disabled = true;
+            resultDiv.innerHTML = '<h2>Spinning...</h2>';
+
+            const minSpins = 5;
+            const maxSpins = 8;
+            const spins = minSpins + Math.random() * (maxSpins - minSpins);
+            const totalRotation = spins * 2 * Math.PI + Math.random() * 2 * Math.PI;
+
+            const duration = 4000; // 4 seconds
+            const startTime = Date.now();
+            const startRotation = currentRotation;
+
+            function animate() {
+                const now = Date.now();
+                const elapsed = now - startTime;
+                const progress = Math.min(elapsed / duration, 1);
+
+                // Easing function for smooth deceleration
+                const easeOut = 1 - Math.pow(1 - progress, 3);
+
+                currentRotation = startRotation + totalRotation * easeOut;
+                drawWheel();
+
+                if (progress < 1) {
+                    requestAnimationFrame(animate);
+                } else {
+                    isSpinning = false;
+                    spinButton.disabled = false;
+                    const winner = getWinningOption(currentRotation);
+                    resultDiv.innerHTML = `<h2 class="winner">🎉 ${winner} 🎉</h2>`;
+                }
+            }
+
+            animate();
+        }
+
+        spinButton.addEventListener('click', spinWheel);
+
+        // Initial draw
+        drawWheel();
+    </script>
+</body>
+</html>
