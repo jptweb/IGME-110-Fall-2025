@@ -36,7 +36,7 @@ A persona is NOT just a name and one sentence. Each persona should be **at least
 > "Sarah, 20, college student. Needs to organize her schedule."
 
 **✅ GOOD Example (Detailed & Useful):**
-<img width="1056" height="816" alt="good-persona" src="https://github.com/user-attachments/assets/943f5636-a7ae-4746-b4d5-7d3435abb678" />
+<img width="800" alt="good-persona" src="https://github.com/user-attachments/assets/943f5636-a7ae-4746-b4d5-7d3435abb678" />
 
 
 **Your personas must include:**
