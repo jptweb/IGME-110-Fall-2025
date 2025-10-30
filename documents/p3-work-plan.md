@@ -8,7 +8,7 @@
 > **To Find your team and browse the projects to pick from go back a step [ [< P3 Teams](p3-teams.md) ]
 
 ## I. Requirements
-- This plan will serve as a roadmap for your project and must include project goals, roles, responsibilities, tasks, timelines. 
+- This plan will serve as a roadmap for your project and must include project goals, roles, responsibilities, tasks, timelines. 
 - Although each group member will guide the team in a specific role(s) as outlined below, everyone is expected to contribute to all parts of the project.
 - Your work plan must include the following components:
 
@@ -18,7 +18,7 @@
 - **C)** Come up with a draft list of 5 to 7 features of your experience (don't worry, you won't be required to implement all of these features!)
 
 ### 2) Target Audience
-- **A)** Identify the primary target audience for your project. Consider the infographic’s original message and who would benefit most from the solution or information presented in your prototype. Describe how the needs and preferences of this audience will shape the design and functionality of your prototype.
+- **A)** Identify the primary target audience for your project. Consider the infographic's original message and who would benefit most from the solution or information presented in your prototype. Describe how the needs and preferences of this audience will shape the design and functionality of your prototype.
 - **B)** Create a minimum of 3 user *personas*:
   - deep dive --> https://www.nngroup.com/articles/personas-study-guide/
   - "lean 5-step process" --> [gemini.google.com - I need to quickly create user personas for an app I am designing.](https://gemini.google.com/share/2cd8a0074acd)
@@ -27,6 +27,24 @@
   - Persona #3 will be a *casual user*
   - for each persona, be sure to complete ***Step 3: Fill in the Essential Persona Template*** from "lean 5-step process" above
   - for each persona, be sure to complete ***Step 4: Define Scenarios and Expectations*** from "lean 5-step process" above
+
+#### ⚠️ IMPORTANT - What Makes a Good Persona?
+
+A persona is NOT just a name and one sentence. Each persona should be **at least one detailed paragraph** (5-8 sentences minimum) that helps you truly understand that user.
+
+**❌ BAD Example (Too Vague):**
+> "Sarah, 20, college student. Needs to organize her schedule."
+
+**✅ GOOD Example (Detailed & Useful):**
+> "Sarah Martinez, 20, is a sophomore commuter student at RIT majoring in Game Design. She works 15 hours/week at Crossroads and commutes 45 minutes each way from her parents' house in Greece, NY. She's juggling 18 credit hours, her part-time job, and trying to stay involved in the Game Design club. She currently uses her phone's basic calendar but constantly misses club meetings and study group sessions because notifications get lost among her other apps. She needs a way to visualize her entire week at a glance and get smarter reminders that account for her commute time. As she puts it: 'I feel like I'm always running late or forgetting something important. I know I wrote it down somewhere but I can't keep track of everything.'"
+
+**Your personas must include:**
+- Name and realistic demographics (age, occupation, living situation, tech comfort level)
+- Specific background/context relevant to your app
+- Clear goals (what they want to accomplish)
+- Specific frustrations (current pain points with existing solutions)
+- A quote in their own words about their problem
+- Scenarios: When/why/how would they use your app?
 
 ### 3) Roles and Responsibilities
 - While ALL group members should participate in EVERY stage of the project, each member will take on a guiding role to help keep the group organized and focused in specific areas:
@@ -41,7 +59,7 @@
 ---
 
 ## II. Submission
-- Submit a document (PDF or docx) outlining your group’s work plan
+- Submit a document (PDF or docx) outlining your group's work plan
 - Be sure to include each of the above components (1A, 1B, 1C, 2A, 2B, 3A)
 
 ---
@@ -50,8 +68,8 @@
 
 ### Deadlines:
 - Due dates for project deliverables
-  - ***11A - Interactive Prototype: Project Plan*** (this deliverable) - due 11A (11/3 or 11/4)
-  - ***11B - Interactive Prototype: LoFi Testing*** (deliverable #2) - need *mockups* of at least 3 screens for testing - and user flow diagrams for at least 3 use cases -  due 11B (11/5 or 11/6)
+  - ***11A - Interactive Prototype: Project Plan*** (this deliverable) - due 11A (11/3)
+  - ***11B - Interactive Prototype: LoFi Testing*** (deliverable #2) - need *mockups* of at least 3 screens for testing - and user flow diagrams for at least 3 use cases -  due 11B (11/5)
   - ***12A - Interactive Prototype:  Hi-Fi Version*** and in-class testing of the UX (use experience) design of the interactive digital prototype (Figma, Google Slides, HTML/CSS/JS, Visual Studio etc) aka (deliverable #3)  - due 12A (11/10 or 11/11)
   - ***12B - In-class work time on Interactive Prototype***
   - ***13A - Interactive Prototype: Final Presentation*** (deliverable #4) - due 13A (11/17 or 11/18)
