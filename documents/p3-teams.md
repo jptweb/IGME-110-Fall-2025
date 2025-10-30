@@ -48,7 +48,7 @@ PS: Professor Jefferson also add the infographics for sections 04/05/06/09 you c
 
 ## III. How do teams work?
 
-***1) Find Your Team Here***
+***1) Find Your Team Here*** Coming Soon (before 8am Oct 30)
 
 ***2) Get your team together, and then as a group pick an infographic to implement***
 
@@ -56,8 +56,6 @@ PS: Professor Jefferson also add the infographics for sections 04/05/06/09 you c
 
 ## IV. FAQ
 
-- ***Can we have cross-section teams?***
-  - no, students need to be from the same section
 - ***Are multiple groups allowed to implement the same product proposal/infographic?***
   - yes, any number of groups can implement the same proposal/infographic
  
