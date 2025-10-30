@@ -65,7 +65,7 @@
 ---
 ---
 
-[**<-- Prev: Your Team**](p3-put-team-together.md)  | 💥💥💥 | [**Next --> Deliv. #2 - Lo-Fi mockups and in-class testing**](p3-lofi-deliverable.md)
+[**<-- Prev: Your Team**](p3-teams.md)  | 💥💥💥 | [**Next --> Deliv. #2 - Lo-Fi mockups and in-class testing**](p3-lofi-deliverable.md)
 
 
 [**Next --> Deliv. #2 - Lo-Fi mockups and in-class testing**](p3-lofi-deliverable.md)
