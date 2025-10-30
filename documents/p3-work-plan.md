@@ -12,10 +12,10 @@
 - Although each group member will guide the team in a specific role(s) as outlined below, everyone is expected to contribute to all parts of the project.
 - Your work plan must include the following components:
 
-### 1) Project Goal and Infographic Analysis
-- **A)** Begin by clearly defining your project goal based on the infographic your group selected. Explain why you chose that particular infographic, analyze it and explain how it serves as the foundation for your project.
-- **B)** Identify the core experience that your prototype will address.
-- **C)** Come up with a draft list of 5 to 7 features of your experience (don't worry, you won't be required to implement all of these features!)
+### 1) Project Goal and App Proposal Analysis
+- **A)** Begin by clearly defining your project goal based on the **app proposal** your group selected. Explain why you chose that particular app concept, analyze the original proposal, and explain how it serves as the foundation for your prototype project.
+- **B)** Identify the core experience that your prototype will address - what is the main problem this app solves?
+- **C)** Come up with a draft list of 5 to 7 features of your app (don't worry, you won't be required to implement all of these features in your prototype!)
 
 ### 2) Target Audience & User Personas
 
@@ -28,9 +28,9 @@ Identify the primary target audience for your project. Consider the infographic'
 Create a minimum of 3 **visual persona documents** - one for each type of user. In professional UX design, personas are visual documents with photos and organized information, NOT just paragraphs of text.
 
 **Resources:**
-- **A GREAT RESOURCE READ THIS ONE: https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/**
-- Industry standard guide (a little drier but good too) → [NNGroup: Personas Study Guide](https://www.nngroup.com/articles/personas-study-guide/)
-
+- Industry standard guide → [NNGroup: Personas Study Guide](https://www.nngroup.com/articles/personas-study-guide/)
+- Visual examples → [NNGroup: Persona Template Examples](https://www.nngroup.com/articles/persona-template/)
+- More examples → [UX Design: How to Create User Personas](https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/)
 
 **Required Personas:**
 - **Persona #1:** Primary target audience (the main person this app is designed for)
