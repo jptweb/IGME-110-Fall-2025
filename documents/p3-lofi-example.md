@@ -86,10 +86,10 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 ## PART 2: Five Lo-Fi Screen Mockups
 
-# ⚠️ IMPORTANT: YOU MUST SUBMIT ACTUAL WIREFRAMES! ⚠️
+### ⚠️ IMPORTANT: YOU MUST SUBMIT ACTUAL WIREFRAMES! ⚠️
 
-## **DO NOT SUBMIT TEXT DESCRIPTIONS LIKE BELOW!**
-## **SUBMIT ACTUAL DRAWINGS (PAPER OR DIGITAL)!**
+### **DO NOT SUBMIT TEXT DESCRIPTIONS LIKE BELOW!**
+### **SUBMIT ACTUAL DRAWINGS (PAPER OR DIGITAL)!**
 
 **What we're showing below:** Example descriptions of what your wireframes should contain
 
@@ -97,7 +97,7 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 - 📄 **Paper sketches** (take clear photos)
 - 💻 **Digital wireframes** (Canva, Figma, PowerPoint, etc.)
 
-**Time check:** Each screen should take 5-10 minutes to sketch. If it's taking longer, simplify or switch to paper!
+**Time check:** Each screen shouldn't take long to create. If it's taking longer than 20 minutes to sketch a screen, consider a different tool or switch to paper!
 
 **Remember:** Lo-fi = boxes, labels, and basic layout. NO colors, fancy fonts, or detailed graphics!
 
