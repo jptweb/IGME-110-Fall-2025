@@ -34,6 +34,9 @@
   - Choose at least FIVE of the 9 user flows you created and 
   - write 5 unique **tasks** for each user flow
   - use the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md)
+ 
+### Sample Submission to benchmark your submission against
+- [P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)
 
 ---
 
