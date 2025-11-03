@@ -48,7 +48,9 @@ or use the random generator: https://people.rit.edu/~jxtadm/110picker/
 
 - The original project proposals are here --> [sections 02/08](https://github.com/jptweb/IGME-110-Fall-2025/tree/main/documents/app-proposal-finals) and here --> [sections 04/05/06/09](https://github.com/tonethar/IGME-110-Fall-2025/tree/main/documents/_app-proposal-finals)
 
-PS: Professor Jefferson also add the infographics for sections 04/05/06/09 you can check out how other sections may have implemented your proposals, and the other sections infogrpahics. I just realized he added these Wednesday 10/29 tonight; if I can get to it I can add our sections infographics here very soon! - [Infographics (sections 04/05/06/09)](https://github.com/tonethar/IGME-110-Fall-2025/tree/main/documents/_infographic-finals)
+## **Where are the Infographics?**
+- I adjusted my instructions to make your prototype more based off of the app proposal rather then the infographics. However you are welcome to base yours off of the infographic too; I just didn't have the directory ready in time. However I now have the infographci directory ready:
+[All Infographics for sections 2,8 (takats) and 4,5,6,9 (Jefferson)](https://github.com/jptweb/IGME-110-Fall-2025/blob/main/documents/infographics-organized/README.md)
 
 ---
 
