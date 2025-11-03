@@ -30,6 +30,7 @@ After reading this to bottom and finding your team head to [**Next --> Deliv. #1
 - Nobia
 - Phone Drone
 - RaiseRunner
+- Routine Smith (new 11/3 this was missing for some reason sorry)
 - Screen Time Translator
 - Session Zero
 - SHREAK
