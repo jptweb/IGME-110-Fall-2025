@@ -20,7 +20,7 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 **Core Features:** Recipe search, grocery lists, meal planner, recipe saving, timers, ingredient substitutions, budget tracking
 
-**Three Personas:**
+**Three Personas:** (you already did these in forst deliverable but adding this to give context).
 - **Primary User - "Busy Brian":** 19yo freshman, limited cooking experience, wants simple 5-ingredient recipes
 - **Power User - "Meal Prep Morgan":** 21yo junior, meal preps weekly, tracks spending
 - **Casual User - "Dietary Dana":** 20yo sophomore, vegetarian, needs dietary filters
