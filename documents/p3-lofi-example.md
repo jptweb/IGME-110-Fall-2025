@@ -1,12 +1,12 @@
 # P3 Deliverable #2 Example: MealMate Recipe App
 
-**NOTE TO STUDENTS:** This is a complete example showing what your team needs to submit by the start of next class. Use this as a template to create your own deliverable for YOUR app!
+**NOTE TO STUDENTS:** This is a example showing what your team needs to submit by the start of next class. Use this as a template to create your own deliverable for YOUR app! Be sure to read all the instructions though; this is more meant as an overview to help answer questions.
 
 ---
 
 ## What You're Submitting
 
-Your team needs to submit THREE things:
+Your team needs to submit THREE things FOR THIS single deliverable (due by start of next class):
 
 1. **9 User Flow Diagrams** (5 for primary user, 2 for power user, 2 for casual user)
 2. **5+ Lo-Fi Screen Mockups** (paper sketches or digital wireframes)
@@ -86,7 +86,20 @@ Your team needs to submit THREE things:
 
 ## PART 2: Five Lo-Fi Screen Mockups
 
-**IMPORTANT:** These descriptions show what should be IN your wireframes. You'll actually create paper sketches or digital wireframes (Canva/Figma). I'm describing them here for demonstration purposes only.
+# ⚠️ IMPORTANT: YOU MUST SUBMIT ACTUAL WIREFRAMES! ⚠️
+
+## **DO NOT SUBMIT TEXT DESCRIPTIONS LIKE BELOW!**
+## **SUBMIT ACTUAL DRAWINGS (PAPER OR DIGITAL)!**
+
+**What we're showing below:** Example descriptions of what your wireframes should contain
+
+**What YOU need to submit:** Actual sketches/wireframes - either:
+- 📄 **Paper sketches** (take clear photos)
+- 💻 **Digital wireframes** (Canva, Figma, PowerPoint, etc.)
+
+**Time check:** Each screen should take 5-10 minutes to sketch. If it's taking longer, simplify or switch to paper!
+
+**Remember:** Lo-fi = boxes, labels, and basic layout. NO colors, fancy fonts, or detailed graphics!
 
 ### Screen 1: Home Screen
 *Used in Flows: #1, #4, #5, #9*
