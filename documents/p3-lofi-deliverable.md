@@ -32,7 +32,8 @@
       - the concept you are developing based on your selected infographic.
       - the core features that will help your audience interact with the project and have a successful "journey"
       - the initial design choices that will guide the final look and feel of the project
-    - the mockups can be developed on paper, or digitally using tools such as Canva, Figma, Photoshop or others.
+    - the mockups can be developed on paper, or digitally using tools such as Canva, Figma OR figjam, Photoshop or others.
+          - **FigJam** is made by figma and is a much quicker collaborative way to create visual stuff: https://www.figma.com/figjam/       
     - here's an example of what paper mockups could look like --> [Mobile Application Design : Paper Prototype Video (1:16)](https://www.youtube.com/watch?v=y20E3qBmHpg)
     - these mockups will be tested by your peers in class
 - 3. User flow and testing:
