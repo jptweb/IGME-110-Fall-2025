@@ -38,10 +38,12 @@
     - these mockups will be tested by your peers in class
  
 - 3. User flow and testing:
-      - Choose at least FIVE of the 7 user flows you created
-      - Write 5 unique **tasks** (one task per selected flow)
-      - **Strategy tip:** Select tasks that cover all three personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
-      - use the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md)
+  - Using the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md):
+    - Pick 5 flows
+    - Create 1 task per flow (5 tasks total)
+    - Each task has 3-5 steps to guide the user
+  - **Strategy tip:** Select tasks that cover different personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
+  - **Still Confused?** Make sure to see the [testing template](p3-wireframe-feedback-script.md) for more context and [sample submission](p3-lofi-example.md).
  
 ### Sample Submission to benchmark your submission against
 - [P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)
