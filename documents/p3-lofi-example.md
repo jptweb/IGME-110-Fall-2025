@@ -163,13 +163,14 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 ### Sample Wireframe hand drawn
 Note this doesnt correspond with the actual example here (I found it on medium.com) but something of this fidelity would be fine handdrawn or done in a program. Make sure its legible so we can have our test users talk through how they would navigate things next class.
 
-<img src="https://github.com/user-attachments/assets/aa1a9c45-c08c-46b0-96f0-a9c59d9b8d44" alt="recipe-wireframe-example" width="800">
+<img width="700" alt="wide4wireframeexample" src="https://github.com/user-attachments/assets/07896b19-8363-4145-ad69-b30935e277f5" />
 
 ---
 
 ## PART 3: Testing Script with 5 Tasks
 
 **Instructions:** Copy the [P3 Wireframe Feedback Script template](../documents/p3-wireframe-feedback-script.md) and fill in the sections below.
+
 
 ### Section I: Project Info
 - **Project name:** MealMate
