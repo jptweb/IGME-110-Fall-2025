@@ -41,7 +41,7 @@
       - Choose at least FIVE of the 7 user flows you created
       - Write 5 unique **tasks** (one task per selected flow)
       - **Strategy tip:** Select tasks that cover all three personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
-      - use the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md)RetryTo run code, enable code execution and file creation in Settings > Capabilities.
+      - use the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md)
  
 ### Sample Submission to benchmark your submission against
 - [P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)
