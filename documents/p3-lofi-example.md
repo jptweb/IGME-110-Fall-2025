@@ -162,9 +162,8 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 ### Sample Wireframe hand drawn
 Note this doesnt correspond with the actual example here (I found it on medium.com) but something of this fidelity would be fine handdrawn or done in a program. Make sure its legible so we can have our test users talk through how they would navigate things next class.
-![recipe-wireframe-example](https://github.com/user-attachments/assets/862c6184-e6ba-48a4-9bd6-fefa1e1c17d3)
 
-
+<img src="https://github.com/user-attachments/assets/aa1a9c45-c08c-46b0-96f0-a9c59d9b8d44" alt="recipe-wireframe-example" width="800">
 
 ---
 
