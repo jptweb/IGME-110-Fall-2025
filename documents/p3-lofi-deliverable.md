@@ -31,9 +31,10 @@
     - here's an example of what paper mockups could look like --> [Mobile Application Design : Paper Prototype Video (1:16)](https://www.youtube.com/watch?v=y20E3qBmHpg)
     - these mockups will be tested by your peers in class
 - 3. User flow and testing:
-  - Choose at least FIVE of the 9 user flows you created and 
-  - write 5 unique **tasks** for each user flow
-  - use the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md)
+  - Choose at least FIVE of the 7 user flows you created
+  - Write 5 unique **tasks** (one task per selected flow)
+  - **Strategy tip:** Select tasks that cover all three personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
+  - use the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md)RetryTo run code, enable code execution and file creation in Settings > Capabilities.
 
 ---
 
