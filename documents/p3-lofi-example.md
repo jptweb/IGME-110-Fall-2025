@@ -161,8 +161,10 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 - "Cancel" button at bottom
 
 ### Sample Wireframe hand drawn
-Note this doesnt correspond with the actual example submission but something of this fidelity would be fine handdrawn or done in a program.
-<img width="364" height="481" alt="wireframes-example" src="https://github.com/user-attachments/assets/a54241a1-c983-485a-ad1a-417b6e4c924f" />
+Note this doesnt correspond with the actual example here (I found it on medium.com) but something of this fidelity would be fine handdrawn or done in a program. Make sure its legible so we can have our test users talk through how they would navigate things next class.
+![recipe-wireframe-example](https://github.com/user-attachments/assets/862c6184-e6ba-48a4-9bd6-fefa1e1c17d3)
+
+
 
 ---
 
