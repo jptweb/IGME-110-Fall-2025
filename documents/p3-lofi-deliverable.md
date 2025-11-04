@@ -12,6 +12,7 @@
 - In class, your group will present a LoFi (wireframe) version of your Interactive Digital Prototype.
 - The purpose of this LoFi version is to gather meaningful feedback from your users (classmates), which will inform concept and design improvements BEFORE you create a HiFi working prototype.
 - Your group will also create a list of *use cases* designed to collect information on the usability, design, and concept of your project.
+- Heres an example of a hypothetical submission: [P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)
 
 ---
 
