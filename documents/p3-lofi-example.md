@@ -8,7 +8,7 @@
 
 Your team needs to submit THREE things FOR THIS single deliverable (due by start of next class):
 
-1. **7 User Flow Diagrams** (3 for primary user, 2 for power user, 2 for casual user)
+1. **User Flow Diagrams** - See your instructor's specific requirements for the exact number required (typically distributed across your 3 personas: primary user, power user, and casual user)
 2. **5+ Lo-Fi Screen Mockups** (paper sketches or digital wireframes)
 3. **Testing Script with 5 Tasks** (using the provided template)
 
@@ -27,11 +27,11 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 ---
 
-## PART 1: Seven User Flow Diagrams
+## PART 1: User Flow Diagrams
 
-*Note: These can be actual diagrams OR clearly formatted text like below*
+*Note: These can be actual diagrams OR clearly formatted text like below. Check your instructor's requirements for the exact number needed per persona.*
 
-### PRIMARY USER (Busy Brian) - 3 Flows
+### PRIMARY USER (Busy Brian) - Example Flows
 
 **Flow #1: Find a Quick Dinner Recipe**
 - **Entry:** App Home Screen
@@ -48,7 +48,7 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 - **Steps:** Tap Share icon → Select "Text Message" → Select contact → Tap "Send"
 - **End State:** Recipe link sent
 
-### POWER USER (Meal Prep Morgan) - 2 Flows
+### POWER USER (Meal Prep Morgan) - Example Flows
 
 **Flow #4: Plan Entire Week's Meals**
 - **Entry:** App Home Screen
@@ -60,7 +60,7 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 - **Steps:** Tap "Generate Grocery List" → Review compiled ingredients → Uncheck items in pantry → Review total cost → Tap "Send to Phone"
 - **End State:** Shopping list ready
 
-### CASUAL USER (Dietary Dana) - 2 Flows
+### CASUAL USER (Dietary Dana) - Example Flows
 
 **Flow #6: Find Vegetarian Alternatives**
 - **Entry:** Viewing "Classic Beef Tacos" recipe
@@ -230,7 +230,7 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 **By start of next class:**
 
-1. ✅ **Document with 7 user flows** (formatted like Part 1 above, or as diagrams) - 3 primary, 2 power, 2 casual
+1. ✅ **User flow diagrams** (formatted like Part 1 above, or as diagrams) - check your instructor's requirements for exact number
 2. ✅ **5+ screen mockups** (photos of paper sketches OR digital wireframes from Canva/Figma)
 3. ✅ **Completed testing script** (using the template, filled out like Part 3 above)
 
@@ -244,9 +244,9 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 ## Tips for Success
 
-**Choose flows strategically** - Pick 7 total flows showing your best features across all 3 personas (3 primary, 2 power, 2 casual)
+**Choose flows strategically** - Distribute your flows across all 3 personas according to your instructor's requirements
 
-**Reuse screens** - One screen (like Home) can support multiple flows - you only need 5-7 screens total to cover 7 flows
+**Reuse screens** - One screen (like Home) can support multiple flows - you only need 5-7 screens total
 
 **Write clear tasks** - Use scenario language ("You want to...") for context
 
@@ -258,7 +258,7 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 ## Common Mistakes to Avoid
 
-❌ Creating 7 separate mockups for 7 flows (you only need 5-7 screens total!)
+❌ Creating separate mockups for every flow (you only need 5-7 screens total that support multiple flows!)
 
 ❌ Making mockups too detailed (this is LO-fi, not hi-fi)
 
@@ -266,7 +266,7 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 ❌ Forgetting to test all 3 personas (your 5 tasks should cover primary, power, AND casual users)
 
-❌ Making all flows about the primary user (remember: 3 primary, 2 power, 2 casual)
+❌ Focusing all flows on just one persona (distribute according to your instructor's requirements)
 
 Not bringing materials to class for iteration (bring paper/markers to update screens!)
 
