@@ -85,7 +85,7 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 **What YOU need to submit:** Actual sketches/wireframes - either:
 - 📄 **Paper sketches** (take clear photos)
-- 💻 **Digital wireframes** (Canva, Figma, PowerPoint, etc.)
+- 💻 **Digital wireframes** (Canva, Figma, PowerPoint, etc.) FigJam is an interesting option too https://www.figma.com/figjam/
 
 **Time check:** Each screen shouldn't take long to create. If it's taking longer than 20 minutes to sketch a screen, consider a different tool or switch to paper!
 
