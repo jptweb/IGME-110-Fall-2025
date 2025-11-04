@@ -8,7 +8,7 @@
 
 Your team needs to submit THREE things FOR THIS single deliverable (due by start of next class):
 
-1. **9 User Flow Diagrams** (5 for primary user, 2 for power user, 2 for casual user)
+1. **7 User Flow Diagrams** (3 for primary user, 2 for power user, 2 for casual user)
 2. **5+ Lo-Fi Screen Mockups** (paper sketches or digital wireframes)
 3. **Testing Script with 5 Tasks** (using the provided template)
 
@@ -27,11 +27,11 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 ---
 
-## PART 1: Nine User Flow Diagrams
+## PART 1: Seven User Flow Diagrams
 
 *Note: These can be actual diagrams OR clearly formatted text like below*
 
-### PRIMARY USER (Busy Brian) - 5 Flows
+### PRIMARY USER (Busy Brian) - 3 Flows
 
 **Flow #1: Find a Quick Dinner Recipe**
 - **Entry:** App Home Screen
@@ -48,36 +48,26 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 - **Steps:** Tap Share icon → Select "Text Message" → Select contact → Tap "Send"
 - **End State:** Recipe link sent
 
-**Flow #4: Check What's In My Pantry**
-- **Entry:** App Home Screen
-- **Steps:** Tap "My Kitchen" → Tap "Pantry" → View list → Tap "+ Add Item" → Type "spaghetti" → Save
-- **End State:** Item added to pantry
-
-**Flow #5: Find Recipes Using My Ingredients**
-- **Entry:** App Home Screen
-- **Steps:** Tap "Search by Ingredients" → Select "spaghetti" from pantry → Select "garlic" → Tap "Find Recipes"
-- **End State:** Viewing filtered results
-
 ### POWER USER (Meal Prep Morgan) - 2 Flows
 
-**Flow #6: Plan Entire Week's Meals**
+**Flow #4: Plan Entire Week's Meals**
 - **Entry:** App Home Screen
 - **Steps:** Tap "Meal Planner" → Tap "+ Add Meal" on Monday → Search "chicken" → Select "Lemon Herb Chicken" → Add to Monday → Repeat for rest of week
 - **End State:** Week fully planned
 
-**Flow #7: Generate Grocery List from Meal Plan**
+**Flow #5: Generate Grocery List from Meal Plan**
 - **Entry:** Meal Planner (with meals planned)
 - **Steps:** Tap "Generate Grocery List" → Review compiled ingredients → Uncheck items in pantry → Review total cost → Tap "Send to Phone"
 - **End State:** Shopping list ready
 
 ### CASUAL USER (Dietary Dana) - 2 Flows
 
-**Flow #8: Find Vegetarian Alternatives**
+**Flow #6: Find Vegetarian Alternatives**
 - **Entry:** Viewing "Classic Beef Tacos" recipe
 - **Steps:** Notice beef ingredient → Tap "Suggest Substitutions" → Review alternatives → Select "Black beans" → Tap "Save Modified Recipe"
 - **End State:** Vegetarian version saved
 
-**Flow #9: Filter by Dietary Restrictions**
+**Flow #7: Filter by Dietary Restrictions**
 - **Entry:** App Home Screen
 - **Steps:** Tap profile icon → Tap "Dietary Preferences" → Toggle ON "Vegetarian" → Toggle ON "Nut-free" → Tap "Save" → Return home
 - **End State:** All searches now auto-filter
@@ -102,7 +92,7 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 **Remember:** Lo-fi = boxes, labels, and basic layout. NO colors, fancy fonts, or detailed graphics!
 
 ### Screen 1: Home Screen
-*Used in Flows: #1, #4, #5, #9*
+*Used in Flows: #1, #7*
 
 **What's on this screen:**
 - App logo at top
@@ -125,7 +115,7 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
   - Ingredient count
 
 ### Screen 3: Recipe Detail View
-*Used in Flows: #1, #8*
+*Used in Flows: #1, #6*
 
 **What's on this screen:**
 - Hero image
@@ -136,20 +126,8 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 - Ingredient list with checkboxes
 - Steps with timer buttons
 
-### Screen 4: My Kitchen / Pantry
+### Screen 4: Meal Planner Calendar
 *Used in Flow: #4*
-
-**What's on this screen:**
-- Tabs: Pantry | Fridge | Shopping List
-- "+ Add Item" button (top-right)
-- Grouped ingredient list:
-  - Grains (spaghetti, rice)
-  - Canned Goods
-  - Spices
-- "Find Recipes with These" button at bottom
-
-### Screen 5: Meal Planner Calendar
-*Used in Flow: #6*
 
 **What's on this screen:**
 - Week view: Mon-Sun
@@ -158,8 +136,8 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 - Filled slots show recipe thumbnail + name
 - "Generate Grocery List" button at bottom
 
-### Optional Screen 6: Dietary Preferences
-*Used in Flow: #9*
+### Screen 5: Dietary Preferences
+*Used in Flow: #7*
 
 **What's on this screen:**
 - Toggle switches for restrictions:
@@ -170,8 +148,8 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 - "Save Preferences" button
 - Note: "All searches will respect these filters"
 
-### Optional Screen 7: Substitution Modal
-*Used in Flow: #8*
+### Optional Screen 6: Substitution Modal
+*Used in Flow: #6*
 
 **What's on this screen:**
 - "Suggested Substitutions for Beef" header
@@ -223,23 +201,28 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 - *Did you get stuck anywhere?*
 - *What did you expect when you tapped the Save button?*
 
-#### Task #2: Check Your Pantry Inventory
-**Scenario:** "You want to track ingredients you have at home."
+#### Task #2: Plan Your Week's Meals (Power User)
+**Scenario:** "You meal prep every Sunday and want to plan all dinners for the week."
 
 **What to do:**
-1. Navigate to where you view pantry items
-2. Add "spaghetti" to your pantry
-3. Add "garlic" to your pantry
-4. Review your complete list
-5. Find where you'd search recipes using these ingredients
+1. Navigate to the meal planning feature
+2. Add a recipe to Monday's dinner
+3. Add recipes for at least 2 more days
+4. Review your weekly plan
+5. Generate a shopping list from your planned meals
 
 **Follow-up questions:**
 - *How easy was this task? (1-5)*
 - *Did you understand each step?*
-- *Were any buttons hard to find?*
+- *Was it clear how to generate the shopping list?*
 - *Did anything work differently than expected?*
 
 ### REPEAT FOR THE REST OF THE TASKS (so you have a total of 5)
+
+**Remember:** Your 5 tasks should cover all three personas. For example:
+- 2-3 tasks from primary user flows
+- 1-2 tasks from power user flows  
+- 1 task from casual user flows
 
 ---
 
@@ -247,7 +230,7 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 **By start of next class:**
 
-1. ✅ **Document with 9 user flows** (formatted like Part 1 above, or as diagrams)
+1. ✅ **Document with 7 user flows** (formatted like Part 1 above, or as diagrams) - 3 primary, 2 power, 2 casual
 2. ✅ **5+ screen mockups** (photos of paper sketches OR digital wireframes from Canva/Figma)
 3. ✅ **Completed testing script** (using the template, filled out like Part 3 above)
 
@@ -261,9 +244,9 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 ## Tips for Success
 
-**Choose flows strategically** - Pick ones showing your best features across all 3 personas
+**Choose flows strategically** - Pick 7 total flows showing your best features across all 3 personas (3 primary, 2 power, 2 casual)
 
-**Reuse screens** - One screen (like Home) can support multiple flows
+**Reuse screens** - One screen (like Home) can support multiple flows - you only need 5-7 screens total to cover 7 flows
 
 **Write clear tasks** - Use scenario language ("You want to...") for context
 
@@ -275,13 +258,15 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 
 ## Common Mistakes to Avoid
 
-Creating 9 separate mockups for 9 flows (you only need 5-7 screens total!)
+❌ Creating 7 separate mockups for 7 flows (you only need 5-7 screens total!)
 
-Making mockups too detailed (this is LO-fi, not hi-fi)
+❌ Making mockups too detailed (this is LO-fi, not hi-fi)
 
-Writing vague tasks ("Use the app" vs. "Find a recipe under 30 minutes")
+❌ Writing vague tasks ("Use the app" vs. "Find a recipe under 30 minutes")
 
-Forgetting to test all 3 personas (make sure at least one task covers each)
+❌ Forgetting to test all 3 personas (your 5 tasks should cover primary, power, AND casual users)
+
+❌ Making all flows about the primary user (remember: 3 primary, 2 power, 2 casual)
 
 Not bringing materials to class for iteration (bring paper/markers to update screens!)
 

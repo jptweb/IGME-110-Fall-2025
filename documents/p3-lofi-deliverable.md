@@ -16,7 +16,11 @@
 ---
 
 ## II. Assignment Requirements
-- 1. A minimum of **NINE *User Flow Diagrams*** that map out at least 9 distinct "journeys" that your users (the personas you created in deliverable #1) will have while attempting to accomplish their goals on your app. Each diagram needs:
+- 1. A minimum of **SEVEN *User Flow Diagrams*** that map out at least 7 distinct "journeys" that your users (the personas you created in deliverable #1) will have while attempting to accomplish their goals on your app. You should create flows for each of your three personas:
+      - **Primary user** (3 flows) - your main target audience
+      - **Power user** (2 flows) - someone who uses the app extensively
+      - **Casual user** (2 flows) - someone who uses it occasionally
+    - Each diagram needs:
       - a **title** that explains the user action (ex. "Change shock intensity")
       - an **entry point** (ex. "App Home Screen")
       - a **series of steps** the user will need to take
@@ -31,8 +35,9 @@
     - here's an example of what paper mockups could look like --> [Mobile Application Design : Paper Prototype Video (1:16)](https://www.youtube.com/watch?v=y20E3qBmHpg)
     - these mockups will be tested by your peers in class
 - 3. User flow and testing:
-  - Choose at least FIVE of the 9 user flows you created and 
+  - Choose at least FIVE of the 7 user flows you created and 
   - write 5 unique **tasks** for each user flow
+  - **Strategy tip:** Select tasks that cover all three personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
   - use the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md)
  
 ### Sample Submission to benchmark your submission against
@@ -43,7 +48,7 @@
 ## III. Submission Requirements
 
 - Submit to myCourses before the dropbox closes:
-  - 9 *User Flow Diagrams* (these could be diagrammed, or easy-to-read text that is nicely formatted)
+  - 7 *User Flow Diagrams* (these could be diagrammed, or easy-to-read text that is nicely formatted) - 3 for primary user, 2 for power user, 2 for casual user
   - 5 or more LoFi wireframe screen mockups (if they are on paper, take pictures)
   - 5 or more unique tasks
 
