@@ -17,7 +17,7 @@
 ---
 
 ## II. Assignment Requirements
-- 1. A minimum of **SEVEN *User Flow Diagrams*** that map out at least 7 distinct "journeys" that your users (the personas you created in deliverable #1) will have while attempting to accomplish their goals on your app. You should create flows for each of your three personas:
+- 1. A minimum of **SEVEN *User Flow Diagrams*** that map out at least 7 distinct "journeys" that your users (the personas you created in deliverable #1) will have while attempting to accomplish their goal / task on your app. You should create flows for each of your three personas:
       - **Primary user** (3 flows) - your main target audience
       - **Power user** (2 flows) - someone who uses the app extensively
       - **Casual user** (2 flows) - someone who uses it occasionally
@@ -37,14 +37,14 @@
     - here's an example of what paper mockups could look like --> [Mobile Application Design : Paper Prototype Video (1:16)](https://www.youtube.com/watch?v=y20E3qBmHpg)
     - these mockups will be tested by your peers in class
  
-- 3. User flow and testing:
+- 3. User flow (aka 'tasks') and testing:
   - Using the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md):
-    - Pick 5 flows
-    - Create 1 task per flow (5 tasks total)
-    - Each task has 3-5 steps to guide the user
+    - Select 5 of your user flows (aka 'tasks') to test
+    - For each flow, create ONE task with a clear goal (e.g., "Find a Quick Dinner Recipe")
+    - Optional: Add 3-5 step-by-step instructions to guide the facilitator during testing
   - **Strategy tip:** Select tasks that cover different personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
-  - **Still Confused?** Make sure to see the [testing template](p3-wireframe-feedback-script.md) for more context and [sample submission](p3-lofi-example.md).
- 
+  - **Still Confused?** See the [testing template](p3-wireframe-feedback-script.md) and [sample submission](p3-lofi-example.md).
+
 ### Sample Submission to benchmark your submission against
 - [P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)
 
