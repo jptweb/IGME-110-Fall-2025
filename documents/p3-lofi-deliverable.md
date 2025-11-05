@@ -70,10 +70,12 @@ Using the [provided testing template (script)](../documents/p3-wireframe-feedbac
 
 ## III. Submission Requirements
 
+- Create a document either PDF or DOCX that contains the deliverables. I will print these off before class! If you made paper mockups please bring these
 - Submit to myCourses before the dropbox closes:
   - 7 *User Flow Diagrams* (these could be diagrammed, or easy-to-read text that is nicely formatted) - 3 for primary user, 2 for power user, 2 for casual user
   - 5 or more LoFi wireframe screen mockups (if they are on paper, take pictures)
   - 5 or more unique tasks (using the template linked above)
+- **Team dropbox** - only one submission needed per team!
 
 ---
 
