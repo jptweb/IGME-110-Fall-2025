@@ -147,7 +147,7 @@ Note this doesnt correspond with the actual example here (I found it on medium.c
 
 ## PART 3: Testing Script with 5 Tasks
 
-**IMPORTANT:** You are creating **5 tasks total** (one per user flow you want to test). The optional guidance steps help your facilitator conduct the test - they are NOT additional tasks to submit!
+**IMPORTANT:** You are creating **5 tasks total** (one per user flow you want to test). The optional guidance steps help your facilitator/person taking the test get through it - they are NOT additional tasks to submit!
 
 **Instructions:** Copy the [P3 Wireframe Feedback Script template](../documents/p3-wireframe-feedback-script.md) and fill in the sections below.
 
@@ -179,7 +179,12 @@ Note this doesnt correspond with the actual example here (I found it on medium.c
 
 #### Task #1: Find a Quick Dinner Recipe
 
-**Optional facilitator guidance:** "You're a busy college student with only 30 minutes to cook. Try to find a simple recipe."
+**Optional: Instructions for the user** *(These are helpful guidance steps to include, but NOT separate tasks to submit)*
+- Find recipes that take 30 minutes or less
+- Filter to show only 5 ingredients or fewer
+- Select the "Easy Pasta Carbonara" recipe
+- Save this recipe to your favorites
+- Review the ingredient list
 
 **Follow-up questions:**
 1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
@@ -192,7 +197,12 @@ Note this doesnt correspond with the actual example here (I found it on medium.c
 
 #### Task #2: Plan Your Week's Meals (Power User)
 
-**Optional facilitator guidance:** "You meal prep every Sunday and want to plan all your dinners for the week."
+**Optional: Instructions for the user** *(These are helpful guidance steps to include, but NOT separate tasks to submit)*
+- Navigate to the meal planning feature
+- Add a recipe to Monday's dinner
+- Add recipes for at least 2 more days
+- Review your weekly plan
+- Generate a shopping list from your planned meals
 
 **Follow-up questions:**
 1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
