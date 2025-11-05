@@ -64,6 +64,9 @@
 - Modify the questions below depending on the app and its specific tasks
 
 ### Task #1 : {Specific Task Name/Goal}
+
+[Optional: Instructions for the user (These are helpful guidance steps to include, but NOT separate tasks to submit)]
+
 1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
 
 2. *Did you understand what to do at every step?* (Yes / No / Sometimes) *If no or sometimes, please briefly explain*:
@@ -79,6 +82,9 @@
 ```
 
 ### Task #2 : {Specific Task Name/Goal}
+
+[Optional: Instructions for the user (These are helpful guidance steps to include, but NOT separate tasks to submit)]
+
 1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
 
 2. etc ...
@@ -88,6 +94,9 @@
 ```
 
 ### Task #3 : {Specific Task Name/Goal}
+
+[Optional: Instructions for the user (These are helpful guidance steps to include, but NOT separate tasks to submit)]
+
 1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
 
 2. etc ...
@@ -97,6 +106,9 @@
 ```
 
 ### Task #4 : {Specific Task Name/Goal}
+
+[Optional: Instructions for the user (These are helpful guidance steps to include, but NOT separate tasks to submit)]
+
 1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
 
 2. etc ...
@@ -106,6 +118,9 @@
 ```
 
 ### Task #5 : {Specific Task Name/Goal}
+
+[Optional: Instructions for the user (These are helpful guidance steps to include, but NOT separate tasks to submit)]
+
 1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
 
 2. etc ...
