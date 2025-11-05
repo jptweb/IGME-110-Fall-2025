@@ -17,32 +17,51 @@
 ---
 
 ## II. Assignment Requirements
-- 1. A minimum of **SEVEN *User Flow Diagrams*** that map out at least 7 distinct "journeys" that your users (the personas you created in deliverable #1) will have while attempting to accomplish their goal / task on your app. You should create flows for each of your three personas:
-      - **Primary user** (3 flows) - your main target audience
-      - **Power user** (2 flows) - someone who uses the app extensively
-      - **Casual user** (2 flows) - someone who uses it occasionally
-    - Each diagram needs:
-      - a **title** that explains the user action (ex. "Change shock intensity")
-      - an **entry point** (ex. "App Home Screen")
-      - a **series of steps** the user will need to take
-        - ex. "Find Settings Button" ➡️ "Navigate to Settings Screen" ➡️ "Change Intensity to Desired Level"
-      - an **end success state** (ex. "Confirm Change")     
-- 2. A *miniumum* of **FIVE screen mockups** (LoFi):
-    - the screen mockups should demonstrate the core idea of your project and should reflect:
-      - the concept you are developing based on your selected infographic.
-      - the core features that will help your audience interact with the project and have a successful "journey"
-      - the initial design choices that will guide the final look and feel of the project
-    - the mockups can be developed on paper, or digitally using tools such as Canva, Figma OR figjam, Photoshop or others.
-      - **FigJam** is made by figma and is a much quicker collaborative way to create visual stuff: https://www.figma.com/figjam/       
-    - here's an example of what paper mockups could look like --> [Mobile Application Design : Paper Prototype Video (1:16)](https://www.youtube.com/watch?v=y20E3qBmHpg)
-    - these mockups will be tested by your peers in class
-- 3. User flow and testing:
-  - Using the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md):
-    - Select 5 of your user flows to test
-    - Create ONE testing task per flow (5 tasks total) - each task tests one complete user journey
-    - Optional: Within each task, add 3-5 step-by-step instructions to guide the facilitator
-  - **Strategy tip:** Select flows/tasks that cover different personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
-  - **Still Confused?** See the [testing template](p3-wireframe-feedback-script.md) and [sample submission](p3-lofi-example.md).
+
+### 1. User Flow Diagrams (Minimum of 7)
+
+Create **SEVEN *User Flow Diagrams*** that map out at least 7 distinct "journeys" that your users (the personas you created in deliverable #1) will have while attempting to accomplish their goal/task on your app. 
+
+**Distribution across personas:**
+- **Primary user** (3 flows) - your main target audience
+- **Power user** (2 flows) - someone who uses the app extensively
+- **Casual user** (2 flows) - someone who uses it occasionally
+
+**Each diagram needs:**
+- A **title** that explains the user action (ex. "Change shock intensity")
+- An **entry point** (ex. "App Home Screen")
+- A **series of steps** the user will need to take
+  - ex. "Find Settings Button" ➡️ "Navigate to Settings Screen" ➡️ "Change Intensity to Desired Level"
+- An **end success state** (ex. "Confirm Change")
+
+
+### 2. Lo-Fi Screen Mockups (Minimum of 5)
+
+Create a **minimum of FIVE screen mockups** (LoFi) that:
+- Demonstrate the core idea of your project
+- Reflect the concept you are developing based on your selected app proposal
+- Show the core features that will help your audience interact with the project and have a successful "journey"
+- Illustrate initial design choices that will guide the final look and feel
+
+**Tools you can use:**
+- **Paper sketches** (take clear photos) - see this [paper prototype video example (1:16)](https://www.youtube.com/watch?v=y20E3qBmHpg)
+- **Digital wireframes:** Canva, Figma, Photoshop, or others
+- **FigJam** (by Figma - quick collaborative whiteboarding): https://www.figma.com/figjam/
+
+**Note:** These mockups will be tested by your peers in class
+
+
+### 3. User Flow Testing (5 Tasks)
+
+Using the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md):
+- Select 5 of your user flows to test
+- Create ONE testing task per flow (5 tasks total) - each task tests one complete user journey
+- Optional: Within each task, add 3-5 step-by-step instructions to guide the facilitator
+
+**Strategy tip:** Select flows/tasks that cover different personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
+
+**Still Confused?** See the [testing template](p3-wireframe-feedback-script.md) and [sample submission](p3-lofi-example.md).
+
 
 ### Sample Submission to benchmark your submission against
 - [P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)
