@@ -37,12 +37,12 @@
     - here's an example of what paper mockups could look like --> [Mobile Application Design : Paper Prototype Video (1:16)](https://www.youtube.com/watch?v=y20E3qBmHpg)
     - these mockups will be tested by your peers in class
  
-- 3. User flow (aka 'tasks') and testing:
+- 3. User flow and testing:
   - Using the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md):
-    - Select 5 of your user flows (aka 'tasks') to test
-    - For each flow, create ONE task with a clear goal (e.g., "Find a Quick Dinner Recipe")
-    - Optional: Add 3-5 step-by-step instructions to guide the facilitator during testing
-  - **Strategy tip:** Select tasks that cover different personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
+    - Select 5 of your user flows to test
+    - Create ONE testing task per flow (5 tasks total) - each task tests one complete user journey
+    - Optional: Within each task, add 3-5 step-by-step instructions to guide the facilitator
+  - **Strategy tip:** Select flows/tasks that cover different personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
   - **Still Confused?** See the [testing template](p3-wireframe-feedback-script.md) and [sample submission](p3-lofi-example.md).
 
 ### Sample Submission to benchmark your submission against
