@@ -147,64 +147,65 @@ Note this doesnt correspond with the actual example here (I found it on medium.c
 
 ## PART 3: Testing Script with 5 Tasks
 
-**IMPORTANT:** You are creating **5 tasks total** (one per user flow you want to test). The numbered items under "Instructions for the user" are optional guidance steps to help your facilitator conduct the test - they are NOT additional tasks!
+**IMPORTANT:** You are creating **5 tasks total** (one per user flow you want to test). The optional guidance steps help your facilitator conduct the test - they are NOT additional tasks to submit!
 
 **Instructions:** Copy the [P3 Wireframe Feedback Script template](../documents/p3-wireframe-feedback-script.md) and fill in the sections below.
+
+---
 
 ### Section I: Project Info
 - **Project name:** MealMate
 - **Section number:** [Your section]
 - **Team number:** [Your team]
 - **Facilitator Name:** [Team member 1]
-- **Computer Name:** [Team member 2]
+- **Computer Name:** [Team member 2] - *Acts as the interface, changing screens as the user interacts*
 - **Scribe Name:** [Team member 3]
+
+---
 
 ### Section II: User Info
 - **First Name:** [To be filled during testing]
 - **Age:** [To be filled during testing]
 
+---
+
 ### Section III: Overall Impression (Pre-Task)
 1. *Based on the home screen, what do you think this app is for?*
 2. *On a scale of 1-5, how clear is the main purpose?*
 
+---
+
 ### Section IV: Task-Specific Feedback
 
 #### Task #1: Find a Quick Dinner Recipe
-**Scenario:** "You're a busy college student with only 30 minutes to cook. Find something simple."
 
-**What to do:**
-1. Find recipes that take 30 minutes or less
-2. Filter to show only 5 ingredients or fewer
-3. Select the "Easy Pasta Carbonara" recipe
-4. Save this recipe to your favorites
-5. Review the ingredient list
+**Optional facilitator guidance:** "You're a busy college student with only 30 minutes to cook. Try to find a simple recipe."
 
 **Follow-up questions:**
-- *How easy was this task? (1-5)*
-- *Did you understand each step? (Yes/No/Sometimes)*
-- *Were any labels confusing?*
-- *Did you get stuck anywhere?*
-- *What did you expect when you tapped the Save button?*
+1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
+2. *Did you understand what to do at every step?* (Yes / No / Sometimes) *If no or sometimes, please briefly explain:*
+3. *Were there any labels, icons, or words that were confusing or unclear?*
+4. *Did you hesitate or get stuck at any point? If so, where and why?*
+5. *What did you expect to happen when you clicked/tapped on [the Save button]?*
+
+---
 
 #### Task #2: Plan Your Week's Meals (Power User)
-**Scenario:** "You meal prep every Sunday and want to plan all dinners for the week."
 
-**What to do:**
-1. Navigate to the meal planning feature
-2. Add a recipe to Monday's dinner
-3. Add recipes for at least 2 more days
-4. Review your weekly plan
-5. Generate a shopping list from your planned meals
+**Optional facilitator guidance:** "You meal prep every Sunday and want to plan all your dinners for the week."
 
 **Follow-up questions:**
-- *How easy was this task? (1-5)*
-- *Did you understand each step?*
-- *Was it clear how to generate the shopping list?*
-- *Did anything work differently than expected?*
+1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
+2. *Did you understand what to do at every step?* (Yes / No / Sometimes)
+3. *Were there any labels, icons, or words that were confusing or unclear?*
+4. *Did you hesitate or get stuck at any point? If so, where and why?*
+5. *What did you expect to happen when you clicked/tapped on [the Generate List button]?*
 
-### REPEAT FOR THE REST OF THE TASKS (so you have a total of 5)
+---
 
-**Remember:** Your 5 tasks should cover all three personas. For example:
+### REPEAT FOR TASKS #3, #4, AND #5 (so you have 5 tasks total)
+
+**Remember:** Your 5 tasks should cover all three personas:
 - 2-3 tasks from primary user flows
 - 1-2 tasks from power user flows  
 - 1 task from casual user flows
