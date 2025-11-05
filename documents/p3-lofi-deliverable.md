@@ -1,4 +1,4 @@
-# Project 3 - deliverable #2
+# Project 3 - Deliverable #2
 ## *Lo-Fi mockups and in-class testing*
 
 ---
