@@ -210,3 +210,5 @@ Note this doesnt correspond with the actual example here (I found it on medium.c
 - 1 task from casual user flows
 
 ---
+
+## See your class notes 11A for HOW to submit! 
