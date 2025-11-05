@@ -62,7 +62,7 @@ Using the [provided testing template (script)](../documents/p3-wireframe-feedbac
 
 **Strategy tip:** Select flows/tasks that cover different personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
 
-# A Sample Submission
+# 🚨 A Sample Submission
 **Sample Submission to benchmark your submission against:** 
 **[P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)**
 
