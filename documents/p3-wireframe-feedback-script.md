@@ -77,9 +77,6 @@
 
 5. *What did you expect to happen when you clicked/tapped on* [Specific Element Name, ex the 'Submit' button on the last screen]?
 
-```
- 
-```
 
 ### Task #2 : {Specific Task Name/Goal}
 
@@ -87,11 +84,13 @@
 
 1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
 
-2. etc ...
+2. etc ... (Modify and add questions below depending on the app and its specific tasks)
 
-```
- 
-```
+3. ?
+
+4. ?
+
+5. ?
 
 ### Task #3 : {Specific Task Name/Goal}
 
@@ -99,11 +98,14 @@
 
 1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
 
-2. etc ...
+2. etc ... (Modify and add questions below depending on the app and its specific tasks)
 
-```
- 
-```
+3. ?
+
+4. ?
+
+5. ?
+
 
 ### Task #4 : {Specific Task Name/Goal}
 
@@ -111,11 +113,15 @@
 
 1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
 
-2. etc ...
+2. etc ... (Modify and add questions below depending on the app and its specific tasks)
 
-```
- 
-```
+3. ?
+
+4. ?
+
+5. ?
+
+
 
 ### Task #5 : {Specific Task Name/Goal}
 
@@ -123,7 +129,13 @@
 
 1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
 
-2. etc ...
+2. etc ... (Modify and add questions below depending on the app and its specific tasks)
+
+3. ?
+
+4. ?
+
+5. ?
 
 
 ---
