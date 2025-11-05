@@ -34,6 +34,8 @@ Create **SEVEN *User Flow Diagrams*** that map out at least 7 distinct "journeys
   - ex. "Find Settings Button" ➡️ "Navigate to Settings Screen" ➡️ "Change Intensity to Desired Level"
 - An **end success state** (ex. "Confirm Change")
 
+See the [User Flow Section of 11A Notes](../weekly/11A.md) for more tips on these.
+
 
 ### 2. Lo-Fi Screen Mockups (Minimum of 5)
 
@@ -60,11 +62,9 @@ Using the [provided testing template (script)](../documents/p3-wireframe-feedbac
 
 **Strategy tip:** Select flows/tasks that cover different personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
 
-**Still Confused?** See the [testing template](p3-wireframe-feedback-script.md) and [sample submission](p3-lofi-example.md).
-
-
-### Sample Submission to benchmark your submission against
-- [P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)
+# A Sample Submission
+**Sample Submission to benchmark your submission against:** 
+**[P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)**
 
 ---
 
