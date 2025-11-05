@@ -4,16 +4,6 @@
 
 ---
 
-## What You're Submitting
-
-Your team needs to submit THREE things FOR THIS single deliverable (due by start of next class):
-
-1. **User Flow Diagrams** - See your instructor's specific requirements for the exact number required (typically distributed across your 3 personas: primary user, power user, and casual user)
-2. **5+ Lo-Fi Screen Mockups** (paper sketches or digital wireframes)
-3. **Testing Script with 5 Tasks** (using the provided template)
-
----
-
 ## Example App: MealMate
 
 **High Concept:** A recipe discovery and meal planning app for college students
@@ -148,18 +138,6 @@ Your team needs to submit THREE things FOR THIS single deliverable (due by start
 - "Save Preferences" button
 - Note: "All searches will respect these filters"
 
-### Optional Screen 6: Substitution Modal
-*Used in Flow: #6*
-
-**What's on this screen:**
-- "Suggested Substitutions for Beef" header
-- List of alternatives:
-  - ⭐⭐⭐ Black beans
-  - ⭐⭐⭐ Plant-based crumbles
-  - ⭐⭐ Mushrooms
-- Each has "Use This" button
-- "Cancel" button at bottom
-
 ### Sample Wireframe hand drawn
 Note this doesnt correspond with the actual example here (I found it on medium.com) but something of this fidelity would be fine handdrawn or done in a program. Make sure its legible so we can have our test users talk through how they would navigate things next class.
 
@@ -169,8 +147,9 @@ Note this doesnt correspond with the actual example here (I found it on medium.c
 
 ## PART 3: Testing Script with 5 Tasks
 
-**Instructions:** Copy the [P3 Wireframe Feedback Script template](../documents/p3-wireframe-feedback-script.md) and fill in the sections below.
+**IMPORTANT:** You are creating **5 tasks total** (one per user flow you want to test). The numbered items under "Instructions for the user" are optional guidance steps to help your facilitator conduct the test - they are NOT additional tasks!
 
+**Instructions:** Copy the [P3 Wireframe Feedback Script template](../documents/p3-wireframe-feedback-script.md) and fill in the sections below.
 
 ### Section I: Project Info
 - **Project name:** MealMate
