@@ -73,7 +73,7 @@ Your final prototype should be a **polished, fully interactive version** that in
 - **Design Thinking:** Shows you understand your target audience (refer to personas)
 - **Iteration:** Visible improvements from lo-fi to hi-fi based on feedback
 
-#### Assessment Criteria for Final Prototype (40% of P3 grade):
+#### Assessment Criteria for Final Prototype (30% of P3 grade):
 
 **Prototype Quality (40%):**
 - Is it polished and fully interactive?
