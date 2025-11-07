@@ -88,4 +88,4 @@ Using the [provided testing template (script)](../documents/p3-wireframe-feedbac
 
 ---
 
-[**<-- Prev: Deliv. #1 - Work Plan, Features & Personas**](p3-work-plan.md)  | 💥💥💥 | [**Next --> Deliv. #3 - Hi-Fi implementation and in-class testing**](p3-hifi-deliverable.md)
+[**<-- Prev: Deliv. #1 - Work Plan, Features & Personas**](p3-work-plan.md)  | 💥💥💥 | [**Next --> Deliv. #3 - Hi-Fi implementation and Presentation**](p3-hifi-deliverable.md)
