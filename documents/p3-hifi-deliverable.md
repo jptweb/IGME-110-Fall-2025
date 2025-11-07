@@ -97,7 +97,7 @@ Your final prototype should be a **polished, fully interactive version** that in
 
 ### II. Group Presentation Requirements
 
-**Time Limit: 5-7 minutes + 2-3 minutes Q&A**
+**Time Limit: ~5 minutes per team**
 
 Your group will pitch your digital prototype to the class as if presenting to stakeholders or investors. Show off what you built and your process!
 
@@ -105,7 +105,7 @@ Your group will pitch your digital prototype to the class as if presenting to st
 
 **Important: All team members must speak during the presentation for full credit.** How you divide the sections is up to your team - be strategic about who presents what based on strengths and contributions.
 
-**Suggested Structure (5-7 minutes total):**
+**Suggested Structure (~5 minutes total):**
 
 **1. Introduction & Problem (1 min)**
 - Introduce team members
@@ -216,11 +216,6 @@ Submit to myCourses (team dropbox):
    - Slides (Google Slides, PowerPoint, or PDF)
    - Any supporting materials used
    - Edit history visible (if applicable)
-
-3. **Final Summary** (1 page):
-   - List of major features implemented
-   - Key improvements from lo-fi to hi-fi
-   - Brief reflection on what your team learned
 
 ---
 
