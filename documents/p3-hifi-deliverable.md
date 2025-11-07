@@ -1,4 +1,4 @@
-# Project 3 - Interactive Digital Prototype - deliverable #3 (DRAFT)
+# Project 3 - deliverable #3 (DRAFT)
 ## *Hi-Fi Version & Presentation*
 
 ---
