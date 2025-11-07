@@ -5,3 +5,6 @@
 
 ## I. Overview
 Details will be coming soon but at this point now that we conducted usability testing of our Prototype in 11B class on Nov. 6th, you can begine working on your high fidelity prototype using what you learned!
+
+
+[**<-- Prev: Deliv. #2 -  Lo-Fi implementation and in-class testing**](p3-lofi-deliverable.md)  | 💥💥💥 | **The End**
