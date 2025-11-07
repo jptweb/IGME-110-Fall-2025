@@ -1,5 +1,5 @@
 # Project 3 - Interactive Digital Prototype - deliverable #3 (DRAFT)
-## *Hi-Fi Version*
+## *Hi-Fi Version & Presentation*
 
 ---
 
