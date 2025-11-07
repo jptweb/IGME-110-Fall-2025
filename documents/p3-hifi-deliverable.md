@@ -1,4 +1,4 @@
-# Project 3 - Interactive Digital Prototype - Deliverables #3a/b & #4
+# Project 3 - Interactive Digital Prototype - Deliverables #3 & #4
 ## *Hi-Fi Prototype & Presentation*
 
 ---
@@ -176,7 +176,7 @@ Your team has flexibility in how you organize this. Here are some approaches:
 
 ---
 
-#### Presentation Assessment Criteria (35% of P3 grade):
+#### Presentation Assessment Criteria (15% of P3 grade):
 
 **Clarity and Organization (20%):**
 - Well-organized with clear structure?
