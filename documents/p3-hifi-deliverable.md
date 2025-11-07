@@ -1,5 +1,5 @@
 # Project 3 - deliverable #3,#4,#5 (DRAFT)
-## *Hi-Fi Version & Presentation & Reflection*
+## *Hi-Fi Version, Presentation & Reflection*
 
 ---
 
