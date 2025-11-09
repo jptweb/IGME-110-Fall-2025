@@ -1,5 +1,6 @@
 # Project 3 - Deliverable #2
-## *Lo-Fi mockups and in-class testing*
+## *Lo-Fi Mockups and User Testing *
+### (class 11A we make, class 11B we test) there are two things to submit!
 
 ---
 
@@ -9,14 +10,27 @@
 ---
 
 ## I. Overview
-- In class, your group will present a LoFi (wireframe) version of your Interactive Digital Prototype.
-- The purpose of this LoFi version is to gather meaningful feedback from your users (classmates), which will inform concept and design improvements BEFORE you create a HiFi working prototype.
-- Your group will also create a list of *use cases* designed to collect information on the usability, design, and concept of your project.
-- Heres an example of a hypothetical submission: [P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)
+
+This deliverable has **two parts** that are submitted separately:
+
+### Part 1: Lo-Fi Mockups & Testing Script (Due: Before Class 11B)
+Your team will create:
+- **7 User Flow Diagrams** mapping out user journeys through your app
+- **5+ Lo-Fi screen mockups** (wireframes) showing your core features
+- **A testing script** with 5 tasks to evaluate your design
+
+You'll work on these during class 11A, but will likely need time outside class to complete them. The purpose of these Lo-Fi materials is to gather meaningful feedback from users (your classmates) BEFORE you invest time building a Hi-Fi working prototype.
+
+**Example submission:** [P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)
+
+### Part 2: Testing Results (Due: After Class 11B)
+During class 11B, you'll conduct usability testing with another team using your testing script from Part 1. After testing, you'll submit your completed testing results.
+
+**See the [Week 11B Notes](../weekly/11B.md#v-after-class-complete-your-deliverable) for detailed instructions on conducting the testing session and what to submit.**
 
 ---
 
-## II. Assignment Requirements
+## II. Part 1: Lo-Fi Mockups & Testing Script
 
 ### 1. User Flow Diagrams (Minimum of 7)
 
@@ -50,10 +64,10 @@ Create a **minimum of FIVE screen mockups** (LoFi) that:
 - **Digital wireframes:** Canva, Figma, Photoshop, or others
 - **FigJam** (by Figma - quick collaborative whiteboarding): https://www.figma.com/figjam/
 
-**Note:** These mockups will be tested by your peers in class
+**Note:** These mockups will be tested by your peers in class 11B
 
 
-### 3. User Flow Testing (5 Tasks)
+### 3. User Testing Script (5 Tasks)
 
 Using the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md):
 - Select 5 of your user flows to test
@@ -62,29 +76,38 @@ Using the [provided testing template (script)](../documents/p3-wireframe-feedbac
 
 **Strategy tip:** Select flows/tasks that cover different personas (e.g., 2-3 from primary user, 1-2 from power user, 1 from casual user)
 
-# 🚨 A Sample Submission
-**Sample Submission to benchmark your submission against:** 
-**[P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)**
+### 🚨 Sample Submission
+**Benchmark your submission against this example:** 
+[P3 Deliverable #2 Example: MealMate Recipe App](p3-lofi-example.md)
 
 ---
 
-## III. Submission Requirements
+## III. Part 1 Submission Requirements
 
-- Create a document either PDF or DOCX that contains the deliverables. I will print these off before class! If you made paper mockups please bring these
+- Create a document (PDF or DOCX) that contains all deliverables
 - Submit to myCourses before the dropbox closes:
-  - 7 *User Flow Diagrams* (these could be diagrammed, or easy-to-read text that is nicely formatted) - 3 for primary user, 2 for power user, 2 for casual user
-  - 5 or more LoFi wireframe screen mockups (if they are on paper, take pictures)
-  - 5 or more unique tasks (using the template linked above)
+  - 7 *User Flow Diagrams* - 3 for primary user, 2 for power user, 2 for casual user
+  - 5 or more LoFi wireframe screen mockups (if paper, include clear photos)
+  - 5 testing tasks using the template
 - **Team dropbox** - only one submission needed per team!
 
+**Note:** If you created paper mockups, please also bring the physical versions to class 11B for testing.
+
 ---
 
-## IV. Screenshots
+## IV. Part 2: Testing Results Submission
+
+After conducting usability testing during class 11B, you'll need to submit your completed testing results.
+
+**For complete instructions, see:** [Week 11B Notes - Testing Results Submission](../weekly/11B.md#v-after-class-complete-your-deliverable)
+
+---
+
+## V. Screenshots
 
 ### User Flow Diagram (simplified)
 
 ![screenshot](./_images/user-flow-diagram.png)
-
 
 ---
 
