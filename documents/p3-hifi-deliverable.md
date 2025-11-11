@@ -105,7 +105,7 @@ Your group will pitch your digital prototype to the class as if presenting to st
 
 **Important: All team members must speak during the presentation for full credit.** How you divide the sections is up to your team - be strategic about who presents what based on strengths and contributions.
 
-**Suggested Structure (~5 minutes total):**
+**Suggested Structure (~5 minutes total):** You don't need to follow this exactly, just a suggestion.
 
 **1. Introduction & Problem (1 min)**
 - Introduce team members
