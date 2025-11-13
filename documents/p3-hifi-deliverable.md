@@ -37,19 +37,6 @@ Check the [12B class notes](../weekly/12B.md) for some final last minute tips an
 
 ---
 
-### Peer Feedback (Last 15-20 Minutes of Class)
-
-Get a second set of eyes to spot any last-minute concerns before final presentations.
-
-**Simple Process:**
-1. Pair with another team (5 min each team)
-2. Show your current prototype
-3. Get quick feedback: What's working? What's confusing? What to prioritize?
-
-**No forms, no scripts** - just helpful conversation between teams.
-
----
-
 ## DELIVERABLE #3: Final Prototype & Presentation
 **Due: Week 13A (Nov 18/19) - Start of Class**
 
