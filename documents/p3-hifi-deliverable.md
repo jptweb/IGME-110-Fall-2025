@@ -9,7 +9,7 @@ After conducting usability testing in Week 11B (Nov 5/6), you now have valuable 
 
 - **[Week 12B](../weekly/12B.md):** Progress Check (In-Class Participation)
 - **Deliverable #3:** Final Prototype & Presentation (Week 13A) - **MAIN EVENT**
-- **Deliverable #4:** Peer Evaluation & Reflection (Week 13B) - See separate document
+- **Deliverable #4:** [Peer Evaluation & Reflection](p3-peer-eval-reflection.md) (Week 13B) - See separate document
 
 **Important Note:** You already did the critical usability testing with your lo-fi prototypes. That's where you discovered the big issues and missing features. Now it's time to polish and present!
 
