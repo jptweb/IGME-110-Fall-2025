@@ -16,11 +16,11 @@ After conducting usability testing in Week 11B (Nov 5/6), you now have valuable 
 ---
 
 ## WEEK 12B: Hi-Fi Prototype Progress Check
-**(In-Class Participation - 10% of P3 Grade)**
+**(In-Class Participation)**
 
 ### Quick Overview
 
-This is an **informal progress check** to ensure you're on track for final presentations.
+Check the [12B class notes](../weekly/12B.md) for some final last minute tips and stuff to work on in class 12b. This is an **informal progress check** to ensure you're on track for final presentations.
 
 **What's Happening in 12B:**
 1. **Share your progress in Slack** before class (screenshot or link)
@@ -55,7 +55,9 @@ Get a second set of eyes to spot any last-minute concerns before final presentat
 
 ### I. Final Prototype Requirements
 
-Your final prototype should be a **polished, fully interactive version** that incorporates feedback from your lo-fi testing and the quick peer check from 12B.
+Your final prototype should be a **polished, fully interactive version** that incorporates feedback from your lo-fi testing and the quick peer check from 12B. 
+
+**Remember: You're building a prototype, not a working app!** Some last minute tips on using figma, adding toggle buttons if desired and variable can be found in the [Class 12B notes](../weekly/12B.md).
 
 #### Final Prototype Checklist:
 - ✅ All core features from your work plan are represented
@@ -113,7 +115,7 @@ Your group will pitch your digital prototype to the class as if presenting to st
 - Identify your target audience (reference personas)
 
 **2. Research & Design Evolution (1-2 min)**
-- Show the original app proposal/infographic that inspired you
+- Show/mention/reference the original app proposal/infographic that inspired you
 - Brief walkthrough of design evolution:
   - 1-2 lo-fi screens → corresponding hi-fi screens
   - How feedback from testing improved the design
