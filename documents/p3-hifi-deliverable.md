@@ -176,7 +176,15 @@ Your team has flexibility in how you organize this. Here are some approaches:
 - ❌ Let one person dominate - everyone should speak
 - ❌ Wing it - practice prevents disasters
 
----
+**💡 Presentation Tech Options:**
+
+You can either:
+- **Use your own laptop** - Optional: Test the HDMI connection during 12B so you're ready for 13A
+- **Have Prof. Takats pull it up** - Just make sure your submission is easy to find and link works
+
+Choose whichever makes you most comfortable!
+
+----
 
 #### Presentation Assessment Criteria (15% of P3 grade):
 
