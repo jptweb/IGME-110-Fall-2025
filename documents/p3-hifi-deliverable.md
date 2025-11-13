@@ -7,7 +7,7 @@
 
 After conducting usability testing in Week 11B (Nov 5/6), you now have valuable feedback to guide your high-fidelity prototype development. This document covers:
 
-- **Week 12B:** Progress Check (In-Class Participation)
+- **(Week 12B)[../weekly/12B.md]:** Progress Check (In-Class Participation)
 - **Deliverable #3:** Final Prototype & Presentation (Week 13A) - **MAIN EVENT**
 - **Deliverable #4:** Peer Evaluation & Reflection (Week 13B) - See separate document
 
