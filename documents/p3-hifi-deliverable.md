@@ -114,9 +114,9 @@ Your group will pitch your digital prototype to the class as if presenting to st
 - State app name and core problem you're solving
 - Identify your target audience (reference personas)
 
-**2. Research & Design Evolution (1-2 min)**
-- Show/mention/reference the original app proposal/infographic that inspired you
-- Brief walkthrough of design evolution:
+**2. Design Evolution (1-2 min)**
+- Briefly mention which P1 app concept you chose to develop
+- Walkthrough of your design evolution:
   - 1-2 lo-fi screens → corresponding hi-fi screens
   - How feedback from testing improved the design
 
