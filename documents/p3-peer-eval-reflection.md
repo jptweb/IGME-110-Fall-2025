@@ -1,9 +1,6 @@
-# Project 3 - Interactive Digital Prototype - Deliverable #4
-## *Peer Evaluation & Reflection*
+# Project 3 - Interactive Digital Prototype - Deliverable #4: *Peer Evaluation & Reflection*
 
----
-
-## Overview
+### Overview
 
 Reflect on your P3 experience and provide feedback to your teammates through an **individual Google Form survey**.
 
@@ -19,7 +16,7 @@ Reflect on your P3 experience and provide feedback to your teammates through an 
 
 ---
 
-## What's In The Survey
+### What's In The Survey
 
 - Overall project reflection and your contributions
 - Team member evaluations (contribution and collaboration ratings)
@@ -28,7 +25,7 @@ Reflect on your P3 experience and provide feedback to your teammates through an 
 
 ---
 
-## Important
+### Important
 
 **This is similar to the P1 peer evaluation process.**
 
@@ -41,7 +38,7 @@ Reflect on your P3 experience and provide feedback to your teammates through an 
 
 ---
 
-## Submission
+### Submission
 
 **Where:** Google Form link (emailed Monday, November 18th)
 
