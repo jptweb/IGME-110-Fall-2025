@@ -24,8 +24,7 @@ Check the [12B class notes](../weekly/12B.md) for some final last minute tips an
 
 **What's Happening in 12B:**
 1. **Share your progress in Slack** before class (screenshot or link)
-2. **Last 15-20 minutes:** Quick peer feedback with another team
-3. **Rest of class:** Work time
+2. **Rest of class:** Work time
 
 **What You Need to Show:**
 - At least 2-3 screens built in hi-fi
