@@ -242,8 +242,8 @@ Submit to myCourses (team dropbox):
 - [PowerPoint hyperlink guide](https://support.microsoft.com/en-us/office/create-a-hyperlink-to-another-slide-9bf3aff2-5e0f-4a4e-91ca-c2d8bb85f3e7)
 
 **Presentation Resources:**
-- [How to present a prototype](https://www.nngroup.com/articles/presenting-prototypes/)
-- [Effective team presentations](https://www.nngroup.com/articles/team-presentations/)
+- [A practical guide to presenting design prototypes (+ Figma example)](https://uxdesign.cc/presenting-prototypes-ed3068edb864)
+- [Tips For Team Presentations From Wharton University](https://communicationprogram.wharton.upenn.edu/library/team-presentations/)
 
 ---
 
