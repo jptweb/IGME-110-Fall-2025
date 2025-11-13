@@ -11,9 +11,6 @@ After conducting usability testing in Week 11B (Nov 5/6), you now have valuable 
 ---
 
 ## WEEK 12B: Hi-Fi Prototype Progress Check
-**(In-Class Participation)**
-
-### Quick Overview
 
 Check the [12B class notes](../weekly/12B.md) for some final last minute tips and stuff to work on in class 12b. This is an **informal progress check** to ensure you're on track for final presentations.
 
