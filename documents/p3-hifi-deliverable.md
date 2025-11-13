@@ -21,12 +21,6 @@ Check the [12B class notes](../weekly/12B.md) for some final last minute tips an
 1. **Share your progress in Slack** before class (screenshot or link)
 2. **Rest of class:** Work time
 
-**What You Need to Show:**
-- At least 2-3 screens built in hi-fi
-- Basic navigation working
-- Consistent design started (colors, fonts)
-- Clear plan for what's left to do
-
 **No formal submission** - just participate in class and share progress in Slack.
 
 ---
