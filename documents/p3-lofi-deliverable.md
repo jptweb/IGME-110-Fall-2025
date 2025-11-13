@@ -1,8 +1,5 @@
-# Project 3 - Deliverable #2
-## *Lo-Fi Mockups and User Testing *
-### (class 11A we make, class 11B we test) there are two things to submit!
-
----
+# Project 3 - Deliverable #2: Lo-Fi Mockups and User Testing
+(class 11A we make, class 11B we test) there are two things to submit!
 
 ## Prerequisites
 - You should have defined the core functionality of your app, have at least 5 to 7 possible features in mind, and have defined at least 3 *user personas*
