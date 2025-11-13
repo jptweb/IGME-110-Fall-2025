@@ -101,6 +101,17 @@ Personas in the UX industry are **visual documents**, not just text. Each person
   - ***12A - Interactive Prototype:  Hi-Fi Version*** and in-class testing of the UX (use experience) design of the interactive digital prototype (Figma, Google Slides, HTML/CSS/JS, Visual Studio etc) aka (deliverable #3)  - due 12A (11/10 or 11/11)
   - ***12B - In-class work time on Interactive Prototype***
   - ***13A - Interactive Prototype: Final Presentation*** (deliverable #4) - due 13A (11/17 or 11/18)
+
+### Overall Grade Breakdown:
+| Component | Weight | Key Focus |
+|-----------|--------|-----------|
+| **Deliverable #1: Work Plan** | 15% | Planning, personas, features (due 11A) |
+| **Deliverable #2: Lo-Fi Prototype** | 15% | User flows, mockups, testing script (due 11B) |
+| **Deliverable #2: Results & Debrief** | 15% | Completed testing scripts, reflection (due after 11B) |
+| **Deliverable #3A: Final Prototype** | 30% | Quality, functionality, creativity (due 13A) |
+| **Deliverable #3B: Presentation** | 15% | Clarity, demo, collaboration (due 13A) |
+| **Deliverable #4: Peer Eval & Reflection** | 10% | See separate document (due 13B) |
+
  
 ### Milestones:
 - Consider the following as you break the project into phases:
