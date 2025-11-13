@@ -52,7 +52,7 @@ Your final prototype should be a **polished, fully interactive version** that in
 - ✅ All interactive elements work as expected
 - ✅ Content is realistic and appropriate for target audience
 - ✅ Major improvements from lo-fi testing are visible
-- ✅ Any obvious issues from 12B peer feedback are addressed (optional)
+- ✅ Any obvious issues from 12B peer feedback are addressed (optional since we didn't end up doing this 12B, we made it very informal)
 - ✅ Prototype is accessible via shareable link or file
 
 #### What It Should Demonstrate:
