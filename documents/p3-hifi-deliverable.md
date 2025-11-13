@@ -1,7 +1,5 @@
-# Project 3 - Interactive Digital Prototype - *Hi-Fi Prototype & Presentation*
-
+# Project 3 - Interactive Digital Prototype: *Hi-Fi Prototype & Presentation*
 ## Overview
-
 After conducting usability testing in Week 11B (Nov 5/6), you now have valuable feedback to guide your high-fidelity prototype development. This document covers:
 
 - **[Week 12B](../weekly/12B.md):** Progress Check (In-Class Participation)
