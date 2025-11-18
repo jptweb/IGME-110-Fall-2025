@@ -4,9 +4,8 @@
 
 Reflect on your P3 experience and provide feedback to your teammates through an **individual Google Form survey**.
 
-**Due: Wednesday, November 20th - Before your class starts**
-- Section 8: Before 8:00 AM
-- Section 2: Before 2:00 PM
+**Due: Sunday, November 23th - Midnight**
+
 
 **Format:** Google Form (link will be emailed Monday, November 18th)
 
