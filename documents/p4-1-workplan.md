@@ -49,6 +49,7 @@ Write a description of the prototype's target audience, considering factors like
 ### 3. Outline Your Advertisement
 
 - **Video Type:** Using [this article](https://quickframe.com/blog/best-video-marketing/) as a guide, decide which video type you will be creating.
+- **Editing Software:** Review the [Week 15A Notes](../weekly/15A.md) for a comparison of video editing tools (Shotcut, iMovie, CapCut, DaVinci Resolve, etc.) and tips for getting started.
 - **Concept and Tone:** Decide on the overall style of the advertisement (e.g., fun, professional, dramatic).
 - **Storyboard or Script:** Create a rough outline of your video, including the key scenes, visuals, and audio elements.
 

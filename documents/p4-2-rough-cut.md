@@ -26,6 +26,8 @@ This project is designed to give you hands-on experience with video editing soft
 
 **Required with submission:** A screenshot of your editing timeline showing your assembled project.
 
+**Need help choosing software?** See the [Week 15A Notes](../weekly/15A.md) for a comparison of video editing tools, tutorials, and free asset resources.
+
 ---
 
 ## Instructions
