@@ -4,7 +4,7 @@ This is an example of what a complete P4 Work Plan submission might look like. U
 
 ---
 
-> **Note on AI Use:** You may use AI to proofread your writing or help organize your thoughts, but the core ideas, analysis, and creative decisions should be yours. If you use AI assistance, note it briefly at the end of your submission.
+> **Note on AI Use:** You may use AI to proofread your writing or help organize your thoughts, but the core ideas, analysis, and creative decisions should be yours. If you use AI assistance, note it briefly at the end of your submission. Failure to disclose AI use is a violation of [RIT's Academic Integrity Policy (D08.0)](https://www.rit.edu/policies/d080) and may result in a zero on the project, failure of the course, or dismissal from the university.
 
 ---
 
