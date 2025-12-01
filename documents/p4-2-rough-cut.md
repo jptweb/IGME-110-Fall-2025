@@ -90,3 +90,18 @@ Include an updated storyboard/script showing any changes from your original plan
 ---
 
 This rough cut is an essential step in the iterative process, allowing you to test your ideas and refine your final advertisement. Focus on creating a rough cut that communicates your vision and shows you're on track for the final submission.
+
+---
+---
+
+## P4 Deliverables Navigation
+
+| Deliverable | Description |
+|-------------|-------------|
+| [#1 Work Plan](p4-1-workplan.md) | Prototype selection, audience, storyboard |
+| **#2 Rough Cut** | *You are here* |
+| [#3 Final Video](p4-3-final.md) | Polished 60-90 second advertisement |
+
+---
+
+[**<-- Prev: Deliv. #1 - Work Plan**](p4-1-workplan.md) | [**Next --> Deliv. #3 - Final Video**](p4-3-final.md)

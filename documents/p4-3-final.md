@@ -98,3 +98,18 @@ Attach your final storyboard or script as an appendix to show how your plan evol
 ---
 
 This final video is your opportunity to showcase your ability to combine planning, creativity, and technical skills into a professional-quality advertisement. Good luck!
+
+---
+---
+
+## P4 Deliverables Navigation
+
+| Deliverable | Description |
+|-------------|-------------|
+| [#1 Work Plan](p4-1-workplan.md) | Prototype selection, audience, storyboard |
+| [#2 Rough Cut](p4-2-rough-cut.md) | Draft video with placeholder content |
+| **#3 Final Video** | *You are here* |
+
+---
+
+[**<-- Prev: Deliv. #2 - Rough Cut**](p4-2-rough-cut.md)

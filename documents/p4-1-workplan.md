@@ -70,3 +70,18 @@ Submit a **.docx** file containing:
 4. **Advertisement Outline** — Storyboard or script that gives a general idea of the overall structure of your video. This serves as your guide when creating the actual video and allows us to verify your idea is within scope.
 
 5. **Project Schedule** — Your timeline for completing the project to demonstrate you've planned how to pace yourself and meet deadlines.
+
+---
+---
+
+## P4 Deliverables Navigation
+
+| Deliverable | Description |
+|-------------|-------------|
+| **#1 Work Plan** | *You are here* |
+| [#2 Rough Cut](p4-2-rough-cut.md) | Draft video with placeholder content |
+| [#3 Final Video](p4-3-final.md) | Polished 60-90 second advertisement |
+
+---
+
+[**Next --> Deliv. #2 - Rough Cut**](p4-2-rough-cut.md)
