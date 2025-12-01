@@ -4,6 +4,10 @@ Using feedback from your rough cut, create a polished, high-quality video advert
 
 ---
 
+> **Final Exam Bonus:** There's an optional video showcase during finals week where you can earn up to 5 bonus points. See [Week 15B Notes](../weekly/15B.md) for details.
+
+---
+
 ## AI & Editing Tools Policy
 
 This project is designed to give you hands-on experience with video editing software. The skills you build here—working with timelines, making cuts, mixing audio, timing transitions—are foundational for future coursework and professional work.
@@ -60,6 +64,9 @@ Write a reflection (250–300 words) addressing the following:
 - What changes or improvements did you make from your rough cut and why?
 - What challenges did you overcome during this process?
 - What did you learn about creating an advertisement through this project?
+- **AI Documentation:** If you used any AI tools during this project (for brainstorming, generating images, creating music, etc.), briefly describe what tools you used and how they contributed to your project. This is required for transparency - there's no penalty for using AI within the allowed guidelines.
+
+> **Important:** Failure to disclose AI use is treated the same as having someone else complete your work - it is a violation of [RIT's Academic Integrity Policy (D08.0)](https://www.rit.edu/policies/d080) and may result in a zero on the project, failure of the course, or dismissal from the university.
 
 Attach your final storyboard or script as an appendix to show how your plan evolved.
 

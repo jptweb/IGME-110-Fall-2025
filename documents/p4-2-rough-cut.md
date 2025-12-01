@@ -4,6 +4,10 @@ Create a rough cut of your video advertisement that demonstrates your progress s
 
 ---
 
+> **Final Exam Bonus:** There's an optional video showcase during finals week where you can earn up to 5 bonus points. See [Week 15B Notes](../weekly/15B.md) for details.
+
+---
+
 ## AI & Editing Tools Policy
 
 This project is designed to give you hands-on experience with video editing software. The skills you build here—working with timelines, making cuts, mixing audio, timing transitions—are foundational for future coursework and professional work.

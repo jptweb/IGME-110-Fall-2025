@@ -4,6 +4,12 @@ For this project, you will create a **60-90 second video advertisement** based o
 
 ---
 
+> **Before You Start:** Review the [Week 15A Notes](../weekly/15A.md) for video editing software comparisons and tutorials. Also read the **AI & Editing Tools Policy** in the [Rough Cut instructions](p4-2-rough-cut.md#ai--editing-tools-policy) - understanding what's allowed now will save you headaches later.
+>
+> **Final Exam Bonus:** There's an optional video showcase during finals week where you can earn up to 5 bonus points. See [Week 15B Notes](../weekly/15B.md) for details.
+
+---
+
 ## Available Prototypes
 
 Select one of the following P3 prototypes to use as the basis for your advertisement:
@@ -60,6 +66,8 @@ Break down your work into smaller tasks and set deadlines to ensure your project
 
 ## Deliverables
 
+> **Need an example?** See the [Sample Work Plan](p4-1-workplan-sample.md) to understand the expected level of detail and format. Your content should be your own original thinking - the sample is just a structural guide.
+
 Submit a **.docx** file containing:
 
 1. **Prototype Selection** — Which presentation/prototype you selected and why you decided to work with that project.
@@ -71,6 +79,10 @@ Submit a **.docx** file containing:
 4. **Advertisement Outline** — Storyboard or script that gives a general idea of the overall structure of your video. This serves as your guide when creating the actual video and allows us to verify your idea is within scope.
 
 5. **Project Schedule** — Your timeline for completing the project to demonstrate you've planned how to pace yourself and meet deadlines.
+
+6. **AI Disclosure (if applicable)** — If you used AI tools to help with this work plan (e.g., proofreading, organizing ideas), briefly note what you used. The core analysis and creative decisions should be your own thinking.
+
+> **Important:** Failure to disclose AI use is treated the same as having someone else complete your work - it is a violation of [RIT's Academic Integrity Policy (D08.0)](https://www.rit.edu/policies/d080) and may result in a zero on the project, failure of the course, or dismissal from the university.
 
 ---
 ---
