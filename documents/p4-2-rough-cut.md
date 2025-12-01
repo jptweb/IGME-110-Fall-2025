@@ -4,7 +4,7 @@ Create a rough cut of your video advertisement that demonstrates your progress s
 
 ---
 
-> **Final Exam Bonus:** There's an optional video showcase during finals week where you can earn up to 5 bonus points. See [Week 15B Notes](../weekly/15B.md) for details.
+> **Final Exam Bonus:** There's an optional video showcase during finals week where you can earn up to 3 bonus points. See [Week 15B Notes](../weekly/15B.md) for details.
 
 ---
 
