@@ -75,7 +75,7 @@ Submit a **.docx** file containing:
 2. **Target Audience** — Who is your target audience? Be specific about demographics, interests, and needs.
 
 3. **Video Type & Style** — A description of which type of video you will be creating and the overall style, why you chose that video type and style, and why you think it will be effective for your target audience.
-
+   - see [Sample Work Plan](p4-1-workplan-sample.md) for some inspiration on doing this part. I also found this reddit thread with some interesting ideas on what to include here: https://www.reddit.com/r/shopify/comments/17ts6a2/comment/k92eh5l/
 4. **Advertisement Outline** — Storyboard or script that gives a general idea of the overall structure of your video. This serves as your guide when creating the actual video and allows us to verify your idea is within scope.
 
 5. **Project Schedule** — Your timeline for completing the project to demonstrate you've planned how to pace yourself and meet deadlines.
