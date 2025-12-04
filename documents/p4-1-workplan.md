@@ -6,7 +6,7 @@ For this project, you will create a **60-90 second video advertisement** based o
 
 > **Before You Start:** Review the [Week 15A Notes](../weekly/15A.md) for video editing software comparisons and tutorials. Also read the **AI & Editing Tools Policy** in the [Rough Cut instructions](p4-2-rough-cut.md#ai--editing-tools-policy) - understanding what's allowed now will save you headaches later.
 >
-> **Final Exam Bonus:** There's an optional video showcase during finals week where you can earn up to 3 bonus points. See [Week 15B Notes](../weekly/15B.md) for details.
+> **Final Exam Bonus:** There's an optional video showcase during finals week where you can earn up to 4 bonus points! Submit the [Video Showcase Signup Form](https://forms.gle/yC4UWL3GRc2LgiC18) before the final exam period. See [Week 15B Notes](../weekly/15B.md) for full details.
 
 ---
 

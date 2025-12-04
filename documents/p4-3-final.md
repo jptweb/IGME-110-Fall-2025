@@ -4,7 +4,7 @@ Using feedback from your rough cut, create a polished, high-quality video advert
 
 ---
 
-> **Final Exam Bonus:** There's an optional video showcase during finals week where you can earn up to 3 bonus points! Submit the [Video Showcase Signup Form](https://forms.gle/yC4UWL3GRc2LgiC18) before the session. See [Week 15B Notes](../weekly/15B.md) for full details.
+> **Final Exam Bonus:** There's an optional video showcase during finals week where you can earn up to 4 bonus points! Submit the [Video Showcase Signup Form](https://forms.gle/yC4UWL3GRc2LgiC18) before the session. See [Week 15B Notes](../weekly/15B.md) for full details.
 
 ---
 
