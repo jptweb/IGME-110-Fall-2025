@@ -4,13 +4,13 @@ Using feedback from your rough cut, create a polished, high-quality video advert
 
 ---
 
-> **Final Exam Bonus:** There's an optional video showcase during finals week where you can earn up to 4 bonus points! Submit the [Video Showcase Signup Form](https://forms.gle/yC4UWL3GRc2LgiC18) before the session. See [Week 15B Notes](../weekly/15B.md) for full details.
+> ~~**Final Exam Bonus:** There's an optional video showcase during finals week where you can earn up to 4 bonus points! Submit the [Video Showcase Signup Form](https://forms.gle/yC4UWL3GRc2LgiC18) before the session. See [Week 15B Notes](../weekly/15B.md) for full details.~~ This was completed on Monday morning.
 
 ---
 
 ## AI & Editing Tools Policy
 
-This project is designed to give you hands-on experience with video editing software. The skills you build here—working with timelines, making cuts, mixing audio, timing transitions—are foundational for future coursework and professional work.
+This project is designed to give you hands-on experience with video editing software. The skills you build here: working with timelines, making cuts, mixing audio, timing transitions are foundational for future coursework and professional work.
 
 **You MAY use AI tools for:**
 - Brainstorming your concept or script
@@ -55,7 +55,7 @@ This project is designed to give you hands-on experience with video editing soft
 
 > **📢 Updated 12/15:** Added detailed caption options including YouTube workflow. Read carefully!
 
-Captions are required for accessibility—they help people who are deaf or hard of hearing, people in public spaces without headphones, and people with audio processing differences. For more on why captions matter, see [this helpful video](https://www.youtube.com/watch?v=DTf_ucW7h8w).
+Captions are required for accessibility. Here's a [helpful video](https://www.youtube.com/watch?v=DTf_ucW7h8w) that covers the difference between closed and open captions and gives tips for editing captions on YouTube.
 
 **Two types of captions:**
 - **Open captions:** Burned into the video itself (always visible)
@@ -63,7 +63,7 @@ Captions are required for accessibility—they help people who are deaf or hard 
 
 Either type is acceptable for this project. Here are your options:
 
-**Option A: Add captions in your editing software (recommended)**
+**Option A: Add captions in your editing software**
 - Use text overlays to add captions directly to your video
 - This creates "open captions" that are always visible
 - Most control over timing and appearance
@@ -76,44 +76,43 @@ Either type is acceptable for this project. Here are your options:
 - Upload your video to YouTube using your **@g.rit.edu account** (not personal—avoids potential suspension issues)
 - Set visibility to **unlisted**
 - YouTube will auto-generate captions
-- **⚠️ You MUST review and correct errors.** Auto-captions are good but not perfect. Go to YouTube Studio → Subtitles → click your video → "Duplicate and edit" to fix mistakes. If I see obvious errors in your captions, you will lose points.
-- Still submit your .mp4 to myCourses and paste the YouTube link in the comments
+- **You MUST review and correct errors.** Auto-captions are good but not perfect. Go to YouTube Studio → Subtitles → click your video → "Duplicate and edit" to fix mistakes. If I see obvious errors in your captions, you will lose points.
 - [How to edit YouTube captions](https://support.google.com/youtube/answer/2734796)
+- **You MUST submit your .mp4 to myCourses either way**. Failure to submit the .mp4 will result in a penalty (though I will grade / view your captions on youtube if you take this path.
 
-**Caption best practices:**
-- Use high contrast (white text on dark background, or vice versa)
-- Use a readable sans-serif font
-- Make text large enough to read easily
-- Sync captions to the audio
+---
 
-### 5. Include Required Elements
-- **Title Card:** A clear and professional title introducing the prototype
+### 5. Refine Required Elements
+- **Title Card:** A clear and professional title introducing the prototype (include if you forgot in rough cut!)
 - **Credits:** Provide detailed credits for any assets used (e.g., images, videos, music, AI-generated content)
+
+---
 
 ### 6. Prepare a Reflection Document
 Write a reflection (250–300 words) addressing the following:
 - What changes or improvements did you make from your rough cut and why?
 - What challenges did you overcome during this process?
 - What did you learn about creating an advertisement through this project?
-- **AI Documentation:** If you used any AI tools during this project (for brainstorming, generating images, creating music, etc.), briefly describe what tools you used and how they contributed to your project. This is required for transparency - there's no penalty for using AI within the allowed guidelines.
+- **AI Documentation:** If you used any AI tools during this project (for brainstorming, generating images, creating music, etc.), briefly describe what tools you used and how they contributed to your project. This is required for transparency—there's no penalty for using AI within the allowed guidelines.
 
-> **Important:** Failure to disclose AI use is treated the same as having someone else complete your work - it is a violation of [RIT's Academic Integrity Policy (D08.0)](https://www.rit.edu/policies/d080) and may result in a zero on the project, failure of the course, or dismissal from the university.
+Include your updated storyboard or script as an appendix to show how your plan evolved. Even if it didn't change much, include it regardless.
 
-Attach your final storyboard or script as an appendix to show how your plan evolved.
+> **Important:** Failure to disclose AI use is treated the same as having someone else complete your work—it is a violation of [RIT's Academic Integrity Policy (D08.0)](https://www.rit.edu/policies/d080) and may result in a zero on the project, failure of the course, or dismissal from the university.
 
 ---
 
 ## Deliverables
 
-**Final Video Advertisement:**
+**Final Video Advertisement (.mp4):**
 - Length: 60–90 seconds
 - Refined visuals, audio, and transitions
 - Includes captions, a title card, and full credits
-- Submit the video as a **.mp4 file**
-- If captions are in a separate file, include the **.srt file** as well
-- If you used YouTube for captions, paste the **unlisted YouTube link** in the myCourses submission comments
+- Submit as **.mp4 file**—submit the .mp4 regardless of whether you're using the YouTube caption option!
 
-> **📢 Updated 12/15:** YouTube link option added above.
+**Caption File OR YouTube Link (if captions are NOT embedded in video):**
+- If captions are embedded in your video (open captions): nothing extra needed
+- If captions are in a separate file: include the **.srt file**
+- If you used YouTube for captions: paste the **unlisted YouTube link** in the myCourses "Add Comments" field (you must verify captions are correct!)
 
 **Reflection Document (.docx):**
 - 250–300 words summarizing changes you made, challenges you faced, and lessons learned
@@ -121,7 +120,7 @@ Attach your final storyboard or script as an appendix to show how your plan evol
 
 **Timeline Screenshot:**
 - A screenshot of your Shotcut (or other editing software) timeline showing your final assembled project
-
+  
 ---
 
 ## Grading Criteria
