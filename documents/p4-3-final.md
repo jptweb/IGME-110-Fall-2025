@@ -52,6 +52,9 @@ This project is designed to give you hands-on experience with video editing soft
 - Ensure transitions and pacing feel smooth and professional
 
 ### 4. Include Captions
+
+> **📢 Updated 12/15:** Added detailed caption options including YouTube workflow. Read carefully!
+
 Captions are required for accessibility—they help people who are deaf or hard of hearing, people in public spaces without headphones, and people with audio processing differences. For more on why captions matter, see [this helpful video](https://www.youtube.com/watch?v=DTf_ucW7h8w).
 
 **Two types of captions:**
@@ -109,6 +112,8 @@ Attach your final storyboard or script as an appendix to show how your plan evol
 - Submit the video as a **.mp4 file**
 - If captions are in a separate file, include the **.srt file** as well
 - If you used YouTube for captions, paste the **unlisted YouTube link** in the myCourses submission comments
+
+> **📢 Updated 12/15:** YouTube link option added above.
 
 **Reflection Document (.docx):**
 - 250–300 words summarizing changes you made, challenges you faced, and lessons learned
