@@ -77,8 +77,8 @@ This was added as an option for those struggling with this; doing the above two 
 - Upload your video to YouTube using your **@g.rit.edu account** (not personal—avoids potential suspension issues)
 - Set visibility to **unlisted**
 - YouTube will auto-generate captions
-- **You MUST review and correct errors.** Auto-captions are good but not perfect. Go to YouTube Studio → Subtitles → click your video → "Duplicate and edit" to fix mistakes. If I see obvious errors in your captions, you will lose points.
-- [How to edit YouTube captions](https://support.google.com/youtube/answer/2734796)
+- **You MUST review and correct errors.** I want them to be flawless if you choose this option as its perhaps a tad easier than other two. Auto-captions are good but not perfect. Go to YouTube Studio → Subtitles → click your video → "Duplicate and edit" to fix mistakes. If I see obvious errors in your captions, you will lose points.
+- [How to edit YouTube captions]([https://support.google.com/youtube/answer/2734796](https://support.google.com/youtube/answer/2734705?hl=en))
 - **You MUST submit your .mp4 to myCourses either way**. Failure to submit the .mp4 will result in a penalty (though I will grade / view your captions on youtube if you take this path.
 
 ---
