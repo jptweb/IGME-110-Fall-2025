@@ -52,8 +52,36 @@ This project is designed to give you hands-on experience with video editing soft
 - Ensure transitions and pacing feel smooth and professional
 
 ### 4. Include Captions
-- Add captions for all spoken dialogue or key audio elements
-- Captions should be clear, easy to read, and synchronized with the video
+Captions are required for accessibility—they help people who are deaf or hard of hearing, people in public spaces without headphones, and people with audio processing differences. For more on why captions matter, see [this helpful video](https://www.youtube.com/watch?v=DTf_ucW7h8w).
+
+**Two types of captions:**
+- **Open captions:** Burned into the video itself (always visible)
+- **Closed captions:** Separate file (.srt) that viewers can toggle on/off
+
+Either type is acceptable for this project. Here are your options:
+
+**Option A: Add captions in your editing software (recommended)**
+- Use text overlays to add captions directly to your video
+- This creates "open captions" that are always visible
+- Most control over timing and appearance
+
+**Option B: Create an .srt file**
+- Export a separate caption file alongside your .mp4
+- Submit both files to myCourses
+
+**Option C: Use YouTube auto-captions**
+- Upload your video to YouTube using your **@g.rit.edu account** (not personal—avoids potential suspension issues)
+- Set visibility to **unlisted**
+- YouTube will auto-generate captions
+- **⚠️ You MUST review and correct errors.** Auto-captions are good but not perfect. Go to YouTube Studio → Subtitles → click your video → "Duplicate and edit" to fix mistakes. If I see obvious errors in your captions, you will lose points.
+- Still submit your .mp4 to myCourses and paste the YouTube link in the comments
+- [How to edit YouTube captions](https://support.google.com/youtube/answer/2734796)
+
+**Caption best practices:**
+- Use high contrast (white text on dark background, or vice versa)
+- Use a readable sans-serif font
+- Make text large enough to read easily
+- Sync captions to the audio
 
 ### 5. Include Required Elements
 - **Title Card:** A clear and professional title introducing the prototype
@@ -80,6 +108,7 @@ Attach your final storyboard or script as an appendix to show how your plan evol
 - Includes captions, a title card, and full credits
 - Submit the video as a **.mp4 file**
 - If captions are in a separate file, include the **.srt file** as well
+- If you used YouTube for captions, paste the **unlisted YouTube link** in the myCourses submission comments
 
 **Reflection Document (.docx):**
 - 250–300 words summarizing changes you made, challenges you faced, and lessons learned
