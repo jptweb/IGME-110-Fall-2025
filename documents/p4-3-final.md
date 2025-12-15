@@ -73,6 +73,7 @@ Either type is acceptable for this project. Here are your options:
 - Submit both files to myCourses
 
 **Option C: Use YouTube auto-captions**
+This was added as an option for those struggling with this; doing the above two options would have been better for learning about the technology, but since we covered video editing so late in the semester I am ok with this workflow assuming you get the captions perfect (which means reviewing them manually) and still submit the MP4.
 - Upload your video to YouTube using your **@g.rit.edu account** (not personal—avoids potential suspension issues)
 - Set visibility to **unlisted**
 - YouTube will auto-generate captions
